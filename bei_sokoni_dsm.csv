@@ -1,0 +1,641 @@
+date,commodity,price,unit,region
+2023-09-18,Beans,2900.0,kg,Dar es Salaam
+2023-09-18,Maize,1000.0,kg,Dar es Salaam
+2023-09-18,Rice,2100.0,kg,Dar es Salaam
+2023-09-20,Beans,2900.0,kg,Dar es Salaam
+2023-09-20,Maize,1000.0,kg,Dar es Salaam
+2023-09-20,Rice,2100.0,kg,Dar es Salaam
+2023-09-22,Beans,2900.0,kg,Dar es Salaam
+2023-09-22,Maize,1000.0,kg,Dar es Salaam
+2023-09-22,Rice,2100.0,kg,Dar es Salaam
+2023-09-25,Beans,2900.0,kg,Dar es Salaam
+2023-09-25,Maize,1000.0,kg,Dar es Salaam
+2023-09-25,Rice,2100.0,kg,Dar es Salaam
+2023-09-27,Beans,2900.0,kg,Dar es Salaam
+2023-09-27,Maize,1000.0,kg,Dar es Salaam
+2023-09-27,Rice,2100.0,kg,Dar es Salaam
+2023-10-06,Beans,2900.0,kg,Dar es Salaam
+2023-10-06,Maize,1000.0,kg,Dar es Salaam
+2023-10-06,Rice,2100.0,kg,Dar es Salaam
+2023-10-09,Beans,2900.0,kg,Dar es Salaam
+2023-10-09,Maize,1000.0,kg,Dar es Salaam
+2023-10-09,Rice,2100.0,kg,Dar es Salaam
+2023-10-20,Beans,2900.0,kg,Dar es Salaam
+2023-10-20,Maize,1000.0,kg,Dar es Salaam
+2023-10-20,Rice,2100.0,kg,Dar es Salaam
+2023-10-23,Beans,2900.0,kg,Dar es Salaam
+2023-10-23,Maize,1000.0,kg,Dar es Salaam
+2023-10-23,Rice,2100.0,kg,Dar es Salaam
+2023-11-06,Beans,2900.0,kg,Dar es Salaam
+2023-11-06,Irish Potatoes,1000.0,kg,Dar es Salaam
+2023-11-06,Maize,1000.0,kg,Dar es Salaam
+2023-11-06,Rice,2400.0,kg,Dar es Salaam
+2023-11-13,Beans,2900.0,kg,Dar es Salaam
+2023-11-13,Irish Potatoes,1000.0,kg,Dar es Salaam
+2023-11-13,Maize,1000.0,kg,Dar es Salaam
+2023-11-13,Rice,2400.0,kg,Dar es Salaam
+2024-08-05,Beans,3008.3333333333335,kg,Dar es Salaam
+2024-08-05,Irish Potatoes,894.1666666666666,kg,Dar es Salaam
+2024-08-05,Maize,696.0,kg,Dar es Salaam
+2024-08-05,Ngano,1600.0,kg,Dar es Salaam
+2024-08-05,Rice,2425.0,kg,Dar es Salaam
+2024-08-21,Beans,2983.3333333333335,kg,Dar es Salaam
+2024-08-21,Irish Potatoes,880.0,kg,Dar es Salaam
+2024-08-21,Maize,715.0,kg,Dar es Salaam
+2024-08-21,Ngano,1612.5,kg,Dar es Salaam
+2024-08-21,Rice,2333.3333333333335,kg,Dar es Salaam
+2024-08-23,Beans,2983.3333333333335,kg,Dar es Salaam
+2024-08-23,Irish Potatoes,880.0,kg,Dar es Salaam
+2024-08-23,Maize,715.0,kg,Dar es Salaam
+2024-08-23,Ngano,1612.5,kg,Dar es Salaam
+2024-08-23,Rice,2333.3333333333335,kg,Dar es Salaam
+2024-08-26,Beans,2983.3333333333335,kg,Dar es Salaam
+2024-08-26,Irish Potatoes,880.0,kg,Dar es Salaam
+2024-08-26,Maize,715.0,kg,Dar es Salaam
+2024-08-26,Ngano,1625.0,kg,Dar es Salaam
+2024-08-26,Rice,2300.0,kg,Dar es Salaam
+2024-08-28,Beans,2983.3333333333335,kg,Dar es Salaam
+2024-08-28,Irish Potatoes,880.0,kg,Dar es Salaam
+2024-08-28,Maize,715.0,kg,Dar es Salaam
+2024-08-28,Ngano,1625.0,kg,Dar es Salaam
+2024-08-28,Rice,2300.0,kg,Dar es Salaam
+2024-08-30,Beans,2983.3333333333335,kg,Dar es Salaam
+2024-08-30,Irish Potatoes,880.0,kg,Dar es Salaam
+2024-08-30,Maize,715.0,kg,Dar es Salaam
+2024-08-30,Ngano,1625.0,kg,Dar es Salaam
+2024-08-30,Rice,2300.0,kg,Dar es Salaam
+2024-10-02,Beans,3066.6666666666665,kg,Dar es Salaam
+2024-10-02,Irish Potatoes,890.0,kg,Dar es Salaam
+2024-10-02,Maize,755.0,kg,Dar es Salaam
+2024-10-02,Ngano,1575.0,kg,Dar es Salaam
+2024-10-02,Rice,2266.6666666666665,kg,Dar es Salaam
+2024-10-04,Beans,3066.6666666666665,kg,Dar es Salaam
+2024-10-04,Irish Potatoes,890.0,kg,Dar es Salaam
+2024-10-04,Maize,755.0,kg,Dar es Salaam
+2024-10-04,Ngano,1575.0,kg,Dar es Salaam
+2024-10-04,Rice,2266.6666666666665,kg,Dar es Salaam
+2024-10-07,Beans,3066.6666666666665,kg,Dar es Salaam
+2024-10-07,Irish Potatoes,894.1666666666666,kg,Dar es Salaam
+2024-10-07,Maize,755.0,kg,Dar es Salaam
+2024-10-07,Ngano,1575.0,kg,Dar es Salaam
+2024-10-07,Rice,2258.3333333333335,kg,Dar es Salaam
+2024-10-09,Beans,3066.6666666666665,kg,Dar es Salaam
+2024-10-09,Irish Potatoes,894.1666666666666,kg,Dar es Salaam
+2024-10-09,Maize,755.0,kg,Dar es Salaam
+2024-10-09,Ngano,1575.0,kg,Dar es Salaam
+2024-10-09,Rice,2258.3333333333335,kg,Dar es Salaam
+2024-10-11,Beans,3066.6666666666665,kg,Dar es Salaam
+2024-10-11,Irish Potatoes,894.1666666666666,kg,Dar es Salaam
+2024-10-11,Maize,755.0,kg,Dar es Salaam
+2024-10-11,Ngano,1575.0,kg,Dar es Salaam
+2024-10-11,Rice,2258.3333333333335,kg,Dar es Salaam
+2024-10-16,Beans,3066.6666666666665,kg,Dar es Salaam
+2024-10-16,Irish Potatoes,894.1666666666666,kg,Dar es Salaam
+2024-10-16,Maize,755.0,kg,Dar es Salaam
+2024-10-16,Ngano,1575.0,kg,Dar es Salaam
+2024-10-16,Rice,2258.3333333333335,kg,Dar es Salaam
+2024-10-18,Beans,3050.0,kg,Dar es Salaam
+2024-10-18,Irish Potatoes,890.0,kg,Dar es Salaam
+2024-10-18,Maize,755.0,kg,Dar es Salaam
+2024-10-18,Ngano,1575.0,kg,Dar es Salaam
+2024-10-18,Rice,2266.6666666666665,kg,Dar es Salaam
+2024-10-21,Beans,3050.0,kg,Dar es Salaam
+2024-10-21,Irish Potatoes,890.0,kg,Dar es Salaam
+2024-10-21,Maize,755.0,kg,Dar es Salaam
+2024-10-21,Ngano,1575.0,kg,Dar es Salaam
+2024-10-21,Rice,2266.6666666666665,kg,Dar es Salaam
+2024-10-23,Beans,3050.0,kg,Dar es Salaam
+2024-10-23,Irish Potatoes,890.0,kg,Dar es Salaam
+2024-10-23,Maize,755.0,kg,Dar es Salaam
+2024-10-23,Ngano,1575.0,kg,Dar es Salaam
+2024-10-23,Rice,2266.6666666666665,kg,Dar es Salaam
+2024-12-02,Beans,3100.0,kg,Dar es Salaam
+2024-12-02,Irish Potatoes,860.8333333333334,kg,Dar es Salaam
+2024-12-02,Maize,752.0,kg,Dar es Salaam
+2024-12-02,Ngano,1562.5,kg,Dar es Salaam
+2024-12-02,Rice,2275.0,kg,Dar es Salaam
+2024-12-11,Beans,3150.0,kg,Dar es Salaam
+2024-12-11,Irish Potatoes,866.6666666666666,kg,Dar es Salaam
+2024-12-11,Maize,752.0,kg,Dar es Salaam
+2024-12-11,Ngano,1562.5,kg,Dar es Salaam
+2024-12-11,Rice,2275.0,kg,Dar es Salaam
+2025-02-03,Beans,3216.6666666666665,kg,Dar es Salaam
+2025-02-03,Irish Potatoes,862.5,kg,Dar es Salaam
+2025-02-03,Maize,752.0,kg,Dar es Salaam
+2025-02-03,Ngano,1562.5,kg,Dar es Salaam
+2025-02-03,Rice,2308.3333333333335,kg,Dar es Salaam
+2025-02-05,Beans,3216.6666666666665,kg,Dar es Salaam
+2025-02-05,Irish Potatoes,862.5,kg,Dar es Salaam
+2025-02-05,Maize,752.0,kg,Dar es Salaam
+2025-02-05,Ngano,1562.5,kg,Dar es Salaam
+2025-02-05,Rice,2308.3333333333335,kg,Dar es Salaam
+2025-02-07,Beans,3216.6666666666665,kg,Dar es Salaam
+2025-02-07,Irish Potatoes,862.5,kg,Dar es Salaam
+2025-02-07,Maize,752.0,kg,Dar es Salaam
+2025-02-07,Ngano,1562.5,kg,Dar es Salaam
+2025-02-07,Rice,2308.3333333333335,kg,Dar es Salaam
+2025-02-10,Beans,3216.6666666666665,kg,Dar es Salaam
+2025-02-10,Irish Potatoes,862.5,kg,Dar es Salaam
+2025-02-10,Maize,752.0,kg,Dar es Salaam
+2025-02-10,Ngano,1562.5,kg,Dar es Salaam
+2025-02-10,Rice,2308.3333333333335,kg,Dar es Salaam
+2025-02-14,Beans,3200.0,kg,Dar es Salaam
+2025-02-14,Irish Potatoes,851.6666666666666,kg,Dar es Salaam
+2025-02-14,Maize,812.0,kg,Dar es Salaam
+2025-02-14,Ngano,1587.5,kg,Dar es Salaam
+2025-02-14,Rice,2475.0,kg,Dar es Salaam
+2025-02-19,Beans,3166.6666666666665,kg,Dar es Salaam
+2025-02-19,Irish Potatoes,851.6666666666666,kg,Dar es Salaam
+2025-02-19,Maize,812.0,kg,Dar es Salaam
+2025-02-19,Ngano,1612.5,kg,Dar es Salaam
+2025-02-19,Rice,2475.0,kg,Dar es Salaam
+2025-02-21,Beans,3166.6666666666665,kg,Dar es Salaam
+2025-02-21,Irish Potatoes,851.6666666666666,kg,Dar es Salaam
+2025-02-21,Maize,812.0,kg,Dar es Salaam
+2025-02-21,Ngano,1612.5,kg,Dar es Salaam
+2025-02-21,Rice,2508.3333333333335,kg,Dar es Salaam
+2025-02-24,Beans,3166.6666666666665,kg,Dar es Salaam
+2025-02-24,Irish Potatoes,851.6666666666666,kg,Dar es Salaam
+2025-02-24,Maize,842.0,kg,Dar es Salaam
+2025-02-24,Ngano,1612.5,kg,Dar es Salaam
+2025-02-24,Rice,2508.3333333333335,kg,Dar es Salaam
+2025-04-14,Beans,3241.6666666666665,kg,Dar es Salaam
+2025-04-14,Irish Potatoes,830.8333333333334,kg,Dar es Salaam
+2025-04-14,Maize,860.0,kg,Dar es Salaam
+2025-04-14,Ngano,1700.0,kg,Dar es Salaam
+2025-04-14,Rice,2575.0,kg,Dar es Salaam
+2025-04-16,Beans,3241.6666666666665,kg,Dar es Salaam
+2025-04-16,Irish Potatoes,830.8333333333334,kg,Dar es Salaam
+2025-04-16,Maize,860.0,kg,Dar es Salaam
+2025-04-16,Ngano,1700.0,kg,Dar es Salaam
+2025-04-16,Rice,2591.6666666666665,kg,Dar es Salaam
+2025-04-23,Beans,3258.3333333333335,kg,Dar es Salaam
+2025-04-23,Irish Potatoes,781.6666666666666,kg,Dar es Salaam
+2025-04-23,Maize,955.0,kg,Dar es Salaam
+2025-04-23,Ngano,1662.5,kg,Dar es Salaam
+2025-04-23,Rice,2595.8333333333335,kg,Dar es Salaam
+2025-04-25,Beans,3375.0,kg,Dar es Salaam
+2025-04-25,Irish Potatoes,780.8333333333334,kg,Dar es Salaam
+2025-04-25,Maize,935.0,kg,Dar es Salaam
+2025-04-25,Ngano,1662.5,kg,Dar es Salaam
+2025-04-25,Rice,2608.3333333333335,kg,Dar es Salaam
+2025-04-28,Beans,3383.3333333333335,kg,Dar es Salaam
+2025-04-28,Irish Potatoes,820.8333333333334,kg,Dar es Salaam
+2025-04-28,Maize,905.0,kg,Dar es Salaam
+2025-04-28,Ngano,1662.5,kg,Dar es Salaam
+2025-04-28,Rice,2550.0,kg,Dar es Salaam
+2025-04-30,Beans,3408.3333333333335,kg,Dar es Salaam
+2025-04-30,Irish Potatoes,780.8333333333334,kg,Dar es Salaam
+2025-04-30,Maize,905.0,kg,Dar es Salaam
+2025-04-30,Ngano,1662.5,kg,Dar es Salaam
+2025-04-30,Rice,2566.6666666666665,kg,Dar es Salaam
+2025-05-02,Beans,3383.3333333333335,kg,Dar es Salaam
+2025-05-02,Irish Potatoes,822.5,kg,Dar es Salaam
+2025-05-02,Maize,905.0,kg,Dar es Salaam
+2025-05-02,Ngano,1662.5,kg,Dar es Salaam
+2025-05-02,Rice,2558.3333333333335,kg,Dar es Salaam
+2025-05-05,Beans,3383.3333333333335,kg,Dar es Salaam
+2025-05-05,Irish Potatoes,822.5,kg,Dar es Salaam
+2025-05-05,Maize,905.0,kg,Dar es Salaam
+2025-05-05,Ngano,1662.5,kg,Dar es Salaam
+2025-05-05,Rice,2558.3333333333335,kg,Dar es Salaam
+2025-05-07,Beans,3383.3333333333335,kg,Dar es Salaam
+2025-05-07,Irish Potatoes,822.5,kg,Dar es Salaam
+2025-05-07,Maize,905.0,kg,Dar es Salaam
+2025-05-07,Ngano,1662.5,kg,Dar es Salaam
+2025-05-07,Rice,2558.3333333333335,kg,Dar es Salaam
+2025-05-09,Beans,3408.3333333333335,kg,Dar es Salaam
+2025-05-09,Irish Potatoes,822.5,kg,Dar es Salaam
+2025-05-09,Maize,1015.0,kg,Dar es Salaam
+2025-05-09,Ngano,1712.5,kg,Dar es Salaam
+2025-05-09,Rice,2608.3333333333335,kg,Dar es Salaam
+2025-05-11,Beans,3375.0,kg,Dar es Salaam
+2025-05-11,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-05-11,Maize,1040.0,kg,Dar es Salaam
+2025-05-11,Ngano,1650.0,kg,Dar es Salaam
+2025-05-11,Rice,2650.0,kg,Dar es Salaam
+2025-05-14,Beans,3375.0,kg,Dar es Salaam
+2025-05-14,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-05-14,Maize,1040.0,kg,Dar es Salaam
+2025-05-14,Ngano,1650.0,kg,Dar es Salaam
+2025-05-14,Rice,2650.0,kg,Dar es Salaam
+2025-05-16,Beans,3375.0,kg,Dar es Salaam
+2025-05-16,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-05-16,Maize,1040.0,kg,Dar es Salaam
+2025-05-16,Ngano,1650.0,kg,Dar es Salaam
+2025-05-16,Rice,2650.0,kg,Dar es Salaam
+2025-05-19,Beans,3350.0,kg,Dar es Salaam
+2025-05-19,Irish Potatoes,826.6666666666666,kg,Dar es Salaam
+2025-05-19,Maize,1050.0,kg,Dar es Salaam
+2025-05-19,Ngano,1687.5,kg,Dar es Salaam
+2025-05-19,Rice,2591.6666666666665,kg,Dar es Salaam
+2025-05-21,Beans,3350.0,kg,Dar es Salaam
+2025-05-21,Irish Potatoes,826.6666666666666,kg,Dar es Salaam
+2025-05-21,Maize,1050.0,kg,Dar es Salaam
+2025-05-21,Ngano,1687.5,kg,Dar es Salaam
+2025-05-21,Rice,2591.6666666666665,kg,Dar es Salaam
+2025-05-23,Beans,3350.0,kg,Dar es Salaam
+2025-05-23,Irish Potatoes,826.6666666666666,kg,Dar es Salaam
+2025-05-23,Maize,1050.0,kg,Dar es Salaam
+2025-05-23,Ngano,1687.5,kg,Dar es Salaam
+2025-05-23,Rice,2633.3333333333335,kg,Dar es Salaam
+2025-05-25,Beans,3350.0,kg,Dar es Salaam
+2025-05-25,Irish Potatoes,826.6666666666666,kg,Dar es Salaam
+2025-05-25,Maize,1050.0,kg,Dar es Salaam
+2025-05-25,Ngano,1687.5,kg,Dar es Salaam
+2025-05-25,Rice,2633.3333333333335,kg,Dar es Salaam
+2025-05-28,Beans,3408.3333333333335,kg,Dar es Salaam
+2025-05-28,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-05-28,Maize,1040.0,kg,Dar es Salaam
+2025-05-28,Ngano,1650.0,kg,Dar es Salaam
+2025-05-28,Rice,2566.6666666666665,kg,Dar es Salaam
+2025-05-30,Beans,3391.6666666666665,kg,Dar es Salaam
+2025-05-30,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-05-30,Maize,1050.0,kg,Dar es Salaam
+2025-05-30,Ngano,1687.5,kg,Dar es Salaam
+2025-05-30,Rice,2616.6666666666665,kg,Dar es Salaam
+2025-06-02,Beans,3391.6666666666665,kg,Dar es Salaam
+2025-06-02,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-06-02,Maize,1050.0,kg,Dar es Salaam
+2025-06-02,Ngano,1687.5,kg,Dar es Salaam
+2025-06-02,Rice,2616.6666666666665,kg,Dar es Salaam
+2025-06-04,Beans,3391.6666666666665,kg,Dar es Salaam
+2025-06-04,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-06-04,Maize,1050.0,kg,Dar es Salaam
+2025-06-04,Ngano,1687.5,kg,Dar es Salaam
+2025-06-04,Rice,2616.6666666666665,kg,Dar es Salaam
+2025-06-06,Beans,3391.6666666666665,kg,Dar es Salaam
+2025-06-06,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-06-06,Maize,1050.0,kg,Dar es Salaam
+2025-06-06,Ngano,1687.5,kg,Dar es Salaam
+2025-06-06,Rice,2616.6666666666665,kg,Dar es Salaam
+2025-06-09,Beans,3391.6666666666665,kg,Dar es Salaam
+2025-06-09,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-06-09,Maize,1050.0,kg,Dar es Salaam
+2025-06-09,Ngano,1687.5,kg,Dar es Salaam
+2025-06-09,Rice,2616.6666666666665,kg,Dar es Salaam
+2025-06-11,Beans,3391.6666666666665,kg,Dar es Salaam
+2025-06-11,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-06-11,Maize,1070.0,kg,Dar es Salaam
+2025-06-11,Ngano,1650.0,kg,Dar es Salaam
+2025-06-11,Rice,2616.6666666666665,kg,Dar es Salaam
+2025-06-13,Beans,3391.6666666666665,kg,Dar es Salaam
+2025-06-13,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-06-13,Maize,1070.0,kg,Dar es Salaam
+2025-06-13,Ngano,1650.0,kg,Dar es Salaam
+2025-06-13,Rice,2616.6666666666665,kg,Dar es Salaam
+2025-06-16,Beans,3408.3333333333335,kg,Dar es Salaam
+2025-06-16,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-06-16,Maize,1070.0,kg,Dar es Salaam
+2025-06-16,Ngano,1650.0,kg,Dar es Salaam
+2025-06-16,Rice,2633.3333333333335,kg,Dar es Salaam
+2025-06-18,Beans,3408.3333333333335,kg,Dar es Salaam
+2025-06-18,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-06-18,Maize,1070.0,kg,Dar es Salaam
+2025-06-18,Ngano,1650.0,kg,Dar es Salaam
+2025-06-18,Rice,2633.3333333333335,kg,Dar es Salaam
+2025-06-23,Beans,3408.3333333333335,kg,Dar es Salaam
+2025-06-23,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-06-23,Maize,1040.0,kg,Dar es Salaam
+2025-06-23,Ngano,1650.0,kg,Dar es Salaam
+2025-06-23,Rice,2566.6666666666665,kg,Dar es Salaam
+2025-06-25,Beans,3408.3333333333335,kg,Dar es Salaam
+2025-06-25,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-06-25,Maize,1040.0,kg,Dar es Salaam
+2025-06-25,Ngano,1650.0,kg,Dar es Salaam
+2025-06-25,Rice,2566.6666666666665,kg,Dar es Salaam
+2025-06-27,Beans,3408.3333333333335,kg,Dar es Salaam
+2025-06-27,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-06-27,Maize,1040.0,kg,Dar es Salaam
+2025-06-27,Ngano,1650.0,kg,Dar es Salaam
+2025-06-27,Rice,2566.6666666666665,kg,Dar es Salaam
+2025-07-09,Beans,3375.0,kg,Dar es Salaam
+2025-07-09,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-07-09,Maize,1040.0,kg,Dar es Salaam
+2025-07-09,Ngano,1650.0,kg,Dar es Salaam
+2025-07-09,Rice,2650.0,kg,Dar es Salaam
+2025-07-14,Beans,3375.0,kg,Dar es Salaam
+2025-07-14,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-07-14,Maize,1040.0,kg,Dar es Salaam
+2025-07-14,Ngano,1650.0,kg,Dar es Salaam
+2025-07-14,Rice,2650.0,kg,Dar es Salaam
+2025-07-16,Beans,3375.0,kg,Dar es Salaam
+2025-07-16,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-07-16,Maize,1040.0,kg,Dar es Salaam
+2025-07-16,Ngano,1650.0,kg,Dar es Salaam
+2025-07-16,Rice,2650.0,kg,Dar es Salaam
+2025-07-18,Beans,3375.0,kg,Dar es Salaam
+2025-07-18,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-07-18,Maize,1040.0,kg,Dar es Salaam
+2025-07-18,Ngano,1650.0,kg,Dar es Salaam
+2025-07-18,Rice,2650.0,kg,Dar es Salaam
+2025-07-21,Beans,3375.0,kg,Dar es Salaam
+2025-07-21,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-07-21,Maize,1040.0,kg,Dar es Salaam
+2025-07-21,Ngano,1650.0,kg,Dar es Salaam
+2025-07-21,Rice,2650.0,kg,Dar es Salaam
+2025-07-23,Beans,3375.0,kg,Dar es Salaam
+2025-07-23,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-07-23,Maize,1040.0,kg,Dar es Salaam
+2025-07-23,Ngano,1650.0,kg,Dar es Salaam
+2025-07-23,Rice,2650.0,kg,Dar es Salaam
+2025-07-25,Beans,3375.0,kg,Dar es Salaam
+2025-07-25,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-07-25,Maize,1040.0,kg,Dar es Salaam
+2025-07-25,Ngano,1650.0,kg,Dar es Salaam
+2025-07-25,Rice,2650.0,kg,Dar es Salaam
+2025-07-28,Beans,3375.0,kg,Dar es Salaam
+2025-07-28,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-07-28,Maize,1040.0,kg,Dar es Salaam
+2025-07-28,Ngano,1650.0,kg,Dar es Salaam
+2025-07-28,Rice,2650.0,kg,Dar es Salaam
+2025-07-30,Beans,3375.0,kg,Dar es Salaam
+2025-07-30,Irish Potatoes,818.3333333333334,kg,Dar es Salaam
+2025-07-30,Maize,1040.0,kg,Dar es Salaam
+2025-07-30,Ngano,1650.0,kg,Dar es Salaam
+2025-07-30,Rice,2650.0,kg,Dar es Salaam
+2025-09-01,Beans,3307.1428571428573,kg,Dar es Salaam
+2025-09-01,Irish Potatoes,780.0,kg,Dar es Salaam
+2025-09-01,Maize,1025.0,kg,Dar es Salaam
+2025-09-01,Ngano,1620.0,kg,Dar es Salaam
+2025-09-01,Rice,2614.285714285714,kg,Dar es Salaam
+2025-09-03,Beans,3307.1428571428573,kg,Dar es Salaam
+2025-09-03,Irish Potatoes,780.0,kg,Dar es Salaam
+2025-09-03,Maize,1025.0,kg,Dar es Salaam
+2025-09-03,Ngano,1620.0,kg,Dar es Salaam
+2025-09-03,Rice,2614.285714285714,kg,Dar es Salaam
+2025-09-08,Beans,3307.1428571428573,kg,Dar es Salaam
+2025-09-08,Irish Potatoes,780.0,kg,Dar es Salaam
+2025-09-08,Maize,1025.0,kg,Dar es Salaam
+2025-09-08,Ngano,1620.0,kg,Dar es Salaam
+2025-09-08,Rice,2614.285714285714,kg,Dar es Salaam
+2025-09-10,Beans,3307.1428571428573,kg,Dar es Salaam
+2025-09-10,Irish Potatoes,780.0,kg,Dar es Salaam
+2025-09-10,Maize,1050.0,kg,Dar es Salaam
+2025-09-10,Ngano,1620.0,kg,Dar es Salaam
+2025-09-10,Rice,2600.0,kg,Dar es Salaam
+2025-09-15,Beans,3307.1428571428573,kg,Dar es Salaam
+2025-09-15,Irish Potatoes,780.0,kg,Dar es Salaam
+2025-09-15,Maize,1058.3333333333333,kg,Dar es Salaam
+2025-09-15,Ngano,1620.0,kg,Dar es Salaam
+2025-09-15,Rice,2600.0,kg,Dar es Salaam
+2025-09-17,Beans,3307.1428571428573,kg,Dar es Salaam
+2025-09-17,Irish Potatoes,780.0,kg,Dar es Salaam
+2025-09-17,Maize,1058.3333333333333,kg,Dar es Salaam
+2025-09-17,Ngano,1620.0,kg,Dar es Salaam
+2025-09-17,Rice,2600.0,kg,Dar es Salaam
+2025-09-19,Beans,3307.1428571428573,kg,Dar es Salaam
+2025-09-19,Irish Potatoes,780.0,kg,Dar es Salaam
+2025-09-19,Maize,1058.3333333333333,kg,Dar es Salaam
+2025-09-19,Ngano,1620.0,kg,Dar es Salaam
+2025-09-19,Rice,2600.0,kg,Dar es Salaam
+2025-09-24,Beans,3278.5714285714284,kg,Dar es Salaam
+2025-09-24,Irish Potatoes,770.7142857142857,kg,Dar es Salaam
+2025-09-24,Maize,1058.3333333333333,kg,Dar es Salaam
+2025-09-24,Ngano,1620.0,kg,Dar es Salaam
+2025-09-24,Rice,2600.0,kg,Dar es Salaam
+2025-09-29,Beans,3278.5714285714284,kg,Dar es Salaam
+2025-09-29,Irish Potatoes,772.8571428571429,kg,Dar es Salaam
+2025-09-29,Maize,1058.3333333333333,kg,Dar es Salaam
+2025-09-29,Ngano,1620.0,kg,Dar es Salaam
+2025-09-29,Rice,2600.0,kg,Dar es Salaam
+2025-10-01,Beans,3278.5714285714284,kg,Dar es Salaam
+2025-10-01,Irish Potatoes,772.8571428571429,kg,Dar es Salaam
+2025-10-01,Maize,1058.3333333333333,kg,Dar es Salaam
+2025-10-01,Ngano,1620.0,kg,Dar es Salaam
+2025-10-01,Rice,2600.0,kg,Dar es Salaam
+2025-10-03,Beans,3278.5714285714284,kg,Dar es Salaam
+2025-10-03,Irish Potatoes,775.0,kg,Dar es Salaam
+2025-10-03,Maize,1050.0,kg,Dar es Salaam
+2025-10-03,Ngano,1620.0,kg,Dar es Salaam
+2025-10-03,Rice,2614.285714285714,kg,Dar es Salaam
+2025-10-06,Beans,3278.5714285714284,kg,Dar es Salaam
+2025-10-06,Irish Potatoes,776.4285714285714,kg,Dar es Salaam
+2025-10-06,Maize,1050.0,kg,Dar es Salaam
+2025-10-06,Ngano,1620.0,kg,Dar es Salaam
+2025-10-06,Rice,2614.285714285714,kg,Dar es Salaam
+2025-10-08,Beans,3278.5714285714284,kg,Dar es Salaam
+2025-10-08,Irish Potatoes,776.4285714285714,kg,Dar es Salaam
+2025-10-08,Maize,1050.0,kg,Dar es Salaam
+2025-10-08,Ngano,1620.0,kg,Dar es Salaam
+2025-10-08,Rice,2614.285714285714,kg,Dar es Salaam
+2025-10-10,Beans,3278.5714285714284,kg,Dar es Salaam
+2025-10-10,Irish Potatoes,776.4285714285714,kg,Dar es Salaam
+2025-10-10,Maize,1050.0,kg,Dar es Salaam
+2025-10-10,Ngano,1620.0,kg,Dar es Salaam
+2025-10-10,Rice,2614.285714285714,kg,Dar es Salaam
+2025-10-20,Beans,3278.5714285714284,kg,Dar es Salaam
+2025-10-20,Irish Potatoes,779.2857142857143,kg,Dar es Salaam
+2025-10-20,Maize,1050.0,kg,Dar es Salaam
+2025-10-20,Ngano,1620.0,kg,Dar es Salaam
+2025-10-20,Rice,2614.285714285714,kg,Dar es Salaam
+2025-11-10,Beans,3278.5714285714284,kg,Dar es Salaam
+2025-11-10,Irish Potatoes,782.8571428571429,kg,Dar es Salaam
+2025-11-10,Maize,1050.0,kg,Dar es Salaam
+2025-11-10,Ngano,1620.0,kg,Dar es Salaam
+2025-11-10,Rice,2614.285714285714,kg,Dar es Salaam
+2025-11-14,Beans,3278.5714285714284,kg,Dar es Salaam
+2025-11-14,Irish Potatoes,782.8571428571429,kg,Dar es Salaam
+2025-11-14,Maize,1050.0,kg,Dar es Salaam
+2025-11-14,Ngano,1620.0,kg,Dar es Salaam
+2025-11-14,Rice,2614.285714285714,kg,Dar es Salaam
+2025-11-19,Beans,3278.5714285714284,kg,Dar es Salaam
+2025-11-19,Irish Potatoes,782.8571428571429,kg,Dar es Salaam
+2025-11-19,Maize,1050.0,kg,Dar es Salaam
+2025-11-19,Ngano,1620.0,kg,Dar es Salaam
+2025-11-19,Rice,2614.285714285714,kg,Dar es Salaam
+2025-11-21,Beans,3278.5714285714284,kg,Dar es Salaam
+2025-11-21,Irish Potatoes,782.8571428571429,kg,Dar es Salaam
+2025-11-21,Maize,1050.0,kg,Dar es Salaam
+2025-11-21,Ngano,1620.0,kg,Dar es Salaam
+2025-11-21,Rice,2614.285714285714,kg,Dar es Salaam
+2025-11-24,Beans,3278.5714285714284,kg,Dar es Salaam
+2025-11-24,Irish Potatoes,782.8571428571429,kg,Dar es Salaam
+2025-11-24,Maize,1050.0,kg,Dar es Salaam
+2025-11-24,Ngano,1620.0,kg,Dar es Salaam
+2025-11-24,Rice,2614.285714285714,kg,Dar es Salaam
+2025-11-26,Beans,3278.5714285714284,kg,Dar es Salaam
+2025-11-26,Irish Potatoes,782.8571428571429,kg,Dar es Salaam
+2025-11-26,Maize,1050.0,kg,Dar es Salaam
+2025-11-26,Ngano,1620.0,kg,Dar es Salaam
+2025-11-26,Rice,2614.285714285714,kg,Dar es Salaam
+2025-11-28,Beans,3278.5714285714284,kg,Dar es Salaam
+2025-11-28,Irish Potatoes,782.8571428571429,kg,Dar es Salaam
+2025-11-28,Maize,1050.0,kg,Dar es Salaam
+2025-11-28,Ngano,1620.0,kg,Dar es Salaam
+2025-11-28,Rice,2614.285714285714,kg,Dar es Salaam
+2025-12-01,Beans,3278.5714285714284,kg,Dar es Salaam
+2025-12-01,Irish Potatoes,782.8571428571429,kg,Dar es Salaam
+2025-12-01,Maize,1050.0,kg,Dar es Salaam
+2025-12-01,Ngano,1620.0,kg,Dar es Salaam
+2025-12-01,Rice,2614.285714285714,kg,Dar es Salaam
+2025-12-03,Beans,3307.1428571428573,kg,Dar es Salaam
+2025-12-03,Irish Potatoes,807.1428571428571,kg,Dar es Salaam
+2025-12-03,Maize,1091.6666666666667,kg,Dar es Salaam
+2025-12-03,Ngano,1620.0,kg,Dar es Salaam
+2025-12-03,Rice,2650.0,kg,Dar es Salaam
+2025-12-05,Beans,3307.1428571428573,kg,Dar es Salaam
+2025-12-05,Irish Potatoes,807.1428571428571,kg,Dar es Salaam
+2025-12-05,Maize,1091.6666666666667,kg,Dar es Salaam
+2025-12-05,Ngano,1620.0,kg,Dar es Salaam
+2025-12-05,Rice,2650.0,kg,Dar es Salaam
+2025-12-08,Beans,3307.1428571428573,kg,Dar es Salaam
+2025-12-08,Irish Potatoes,807.1428571428571,kg,Dar es Salaam
+2025-12-08,Maize,1091.6666666666667,kg,Dar es Salaam
+2025-12-08,Ngano,1620.0,kg,Dar es Salaam
+2025-12-08,Rice,2650.0,kg,Dar es Salaam
+2025-12-10,Beans,3307.1428571428573,kg,Dar es Salaam
+2025-12-10,Irish Potatoes,807.1428571428571,kg,Dar es Salaam
+2025-12-10,Maize,1091.6666666666667,kg,Dar es Salaam
+2025-12-10,Ngano,1620.0,kg,Dar es Salaam
+2025-12-10,Rice,2650.0,kg,Dar es Salaam
+2025-12-12,Beans,3307.1428571428573,kg,Dar es Salaam
+2025-12-12,Irish Potatoes,830.0,kg,Dar es Salaam
+2025-12-12,Maize,1041.6666666666667,kg,Dar es Salaam
+2025-12-12,Ngano,1620.0,kg,Dar es Salaam
+2025-12-12,Rice,2650.0,kg,Dar es Salaam
+2025-12-15,Beans,3307.1428571428573,kg,Dar es Salaam
+2025-12-15,Irish Potatoes,830.0,kg,Dar es Salaam
+2025-12-15,Maize,1041.6666666666667,kg,Dar es Salaam
+2025-12-15,Ngano,1620.0,kg,Dar es Salaam
+2025-12-15,Rice,2650.0,kg,Dar es Salaam
+2025-12-17,Beans,3307.1428571428573,kg,Dar es Salaam
+2025-12-17,Irish Potatoes,830.0,kg,Dar es Salaam
+2025-12-17,Maize,1041.6666666666667,kg,Dar es Salaam
+2025-12-17,Ngano,1620.0,kg,Dar es Salaam
+2025-12-17,Rice,2650.0,kg,Dar es Salaam
+2025-12-19,Beans,3307.1428571428573,kg,Dar es Salaam
+2025-12-19,Irish Potatoes,830.0,kg,Dar es Salaam
+2025-12-19,Maize,1041.6666666666667,kg,Dar es Salaam
+2025-12-19,Ngano,1620.0,kg,Dar es Salaam
+2025-12-19,Rice,2650.0,kg,Dar es Salaam
+2025-12-22,Beans,3307.1428571428573,kg,Dar es Salaam
+2025-12-22,Irish Potatoes,830.0,kg,Dar es Salaam
+2025-12-22,Maize,1041.6666666666667,kg,Dar es Salaam
+2025-12-22,Ngano,1620.0,kg,Dar es Salaam
+2025-12-22,Rice,2650.0,kg,Dar es Salaam
+2026-01-02,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-01-02,Irish Potatoes,833.5714285714286,kg,Dar es Salaam
+2026-01-02,Maize,1050.0,kg,Dar es Salaam
+2026-01-02,Ngano,1620.0,kg,Dar es Salaam
+2026-01-02,Rice,2657.1428571428573,kg,Dar es Salaam
+2026-01-05,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-01-05,Irish Potatoes,833.5714285714286,kg,Dar es Salaam
+2026-01-05,Maize,1050.0,kg,Dar es Salaam
+2026-01-05,Ngano,1620.0,kg,Dar es Salaam
+2026-01-05,Rice,2657.1428571428573,kg,Dar es Salaam
+2026-01-07,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-01-07,Irish Potatoes,833.5714285714286,kg,Dar es Salaam
+2026-01-07,Maize,1050.0,kg,Dar es Salaam
+2026-01-07,Ngano,1620.0,kg,Dar es Salaam
+2026-01-07,Rice,2657.1428571428573,kg,Dar es Salaam
+2026-01-09,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-01-09,Irish Potatoes,833.5714285714286,kg,Dar es Salaam
+2026-01-09,Maize,1050.0,kg,Dar es Salaam
+2026-01-09,Ngano,1620.0,kg,Dar es Salaam
+2026-01-09,Rice,2657.1428571428573,kg,Dar es Salaam
+2026-01-14,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-01-14,Irish Potatoes,833.5714285714286,kg,Dar es Salaam
+2026-01-14,Maize,1050.0,kg,Dar es Salaam
+2026-01-14,Ngano,1620.0,kg,Dar es Salaam
+2026-01-14,Rice,2678.5714285714284,kg,Dar es Salaam
+2026-01-16,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-01-16,Irish Potatoes,833.5714285714286,kg,Dar es Salaam
+2026-01-16,Maize,1050.0,kg,Dar es Salaam
+2026-01-16,Ngano,1620.0,kg,Dar es Salaam
+2026-01-16,Rice,2642.8571428571427,kg,Dar es Salaam
+2026-01-21,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-01-21,Irish Potatoes,833.5714285714286,kg,Dar es Salaam
+2026-01-21,Maize,1050.0,kg,Dar es Salaam
+2026-01-21,Ngano,1620.0,kg,Dar es Salaam
+2026-01-21,Rice,2642.8571428571427,kg,Dar es Salaam
+2026-01-26,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-01-26,Irish Potatoes,833.5714285714286,kg,Dar es Salaam
+2026-01-26,Maize,1050.0,kg,Dar es Salaam
+2026-01-26,Ngano,1620.0,kg,Dar es Salaam
+2026-01-26,Rice,2642.8571428571427,kg,Dar es Salaam
+2026-01-28,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-01-28,Irish Potatoes,887.1428571428571,kg,Dar es Salaam
+2026-01-28,Maize,1050.0,kg,Dar es Salaam
+2026-01-28,Ngano,1620.0,kg,Dar es Salaam
+2026-01-28,Rice,2642.8571428571427,kg,Dar es Salaam
+2026-01-30,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-01-30,Irish Potatoes,887.1428571428571,kg,Dar es Salaam
+2026-01-30,Maize,1050.0,kg,Dar es Salaam
+2026-01-30,Ngano,1620.0,kg,Dar es Salaam
+2026-01-30,Rice,2642.8571428571427,kg,Dar es Salaam
+2026-02-02,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-02-02,Irish Potatoes,887.1428571428571,kg,Dar es Salaam
+2026-02-02,Maize,1050.0,kg,Dar es Salaam
+2026-02-02,Ngano,1620.0,kg,Dar es Salaam
+2026-02-02,Rice,2642.8571428571427,kg,Dar es Salaam
+2026-02-04,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-02-04,Irish Potatoes,872.8571428571429,kg,Dar es Salaam
+2026-02-04,Maize,1050.0,kg,Dar es Salaam
+2026-02-04,Ngano,1620.0,kg,Dar es Salaam
+2026-02-04,Rice,2700.0,kg,Dar es Salaam
+2026-02-06,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-02-06,Irish Potatoes,858.5714285714286,kg,Dar es Salaam
+2026-02-06,Maize,1050.0,kg,Dar es Salaam
+2026-02-06,Ngano,1620.0,kg,Dar es Salaam
+2026-02-06,Rice,2700.0,kg,Dar es Salaam
+2026-02-09,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-02-09,Irish Potatoes,858.5714285714286,kg,Dar es Salaam
+2026-02-09,Maize,1050.0,kg,Dar es Salaam
+2026-02-09,Ngano,1620.0,kg,Dar es Salaam
+2026-02-09,Rice,2700.0,kg,Dar es Salaam
+2026-03-27,Beans,3285.714285714286,kg,Dar es Salaam
+2026-03-27,Irish Potatoes,801.4285714285714,kg,Dar es Salaam
+2026-03-27,Maize,1050.0,kg,Dar es Salaam
+2026-03-27,Ngano,1620.0,kg,Dar es Salaam
+2026-03-27,Rice,2707.1428571428573,kg,Dar es Salaam
+2026-03-30,Beans,3285.714285714286,kg,Dar es Salaam
+2026-03-30,Irish Potatoes,801.4285714285714,kg,Dar es Salaam
+2026-03-30,Maize,1050.0,kg,Dar es Salaam
+2026-03-30,Ngano,1620.0,kg,Dar es Salaam
+2026-03-30,Rice,2707.1428571428573,kg,Dar es Salaam
+2026-04-08,Beans,3275.0,kg,Dar es Salaam
+2026-04-08,Irish Potatoes,830.8333333333334,kg,Dar es Salaam
+2026-04-08,Maize,1070.0,kg,Dar es Salaam
+2026-04-08,Ngano,1620.0,kg,Dar es Salaam
+2026-04-08,Rice,2716.6666666666665,kg,Dar es Salaam
+2026-04-13,Beans,3275.0,kg,Dar es Salaam
+2026-04-13,Irish Potatoes,830.8333333333334,kg,Dar es Salaam
+2026-04-13,Maize,1070.0,kg,Dar es Salaam
+2026-04-13,Ngano,1620.0,kg,Dar es Salaam
+2026-04-13,Rice,2716.6666666666665,kg,Dar es Salaam
+2026-04-15,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-04-15,Irish Potatoes,803.5714285714286,kg,Dar es Salaam
+2026-04-15,Maize,1050.0,kg,Dar es Salaam
+2026-04-15,Ngano,1620.0,kg,Dar es Salaam
+2026-04-15,Rice,2707.1428571428573,kg,Dar es Salaam
+2026-04-17,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-04-17,Irish Potatoes,803.5714285714286,kg,Dar es Salaam
+2026-04-17,Maize,1050.0,kg,Dar es Salaam
+2026-04-17,Ngano,1620.0,kg,Dar es Salaam
+2026-04-17,Rice,2707.1428571428573,kg,Dar es Salaam
+2026-04-20,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-04-20,Irish Potatoes,803.5714285714286,kg,Dar es Salaam
+2026-04-20,Maize,1050.0,kg,Dar es Salaam
+2026-04-20,Ngano,1620.0,kg,Dar es Salaam
+2026-04-20,Rice,2707.1428571428573,kg,Dar es Salaam
+2026-04-22,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-04-22,Irish Potatoes,803.5714285714286,kg,Dar es Salaam
+2026-04-22,Maize,1050.0,kg,Dar es Salaam
+2026-04-22,Ngano,1620.0,kg,Dar es Salaam
+2026-04-22,Rice,2707.1428571428573,kg,Dar es Salaam
+2026-04-24,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-04-24,Irish Potatoes,803.5714285714286,kg,Dar es Salaam
+2026-04-24,Maize,1050.0,kg,Dar es Salaam
+2026-04-24,Ngano,1620.0,kg,Dar es Salaam
+2026-04-24,Rice,2707.1428571428573,kg,Dar es Salaam
+2026-04-27,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-04-27,Irish Potatoes,803.5714285714286,kg,Dar es Salaam
+2026-04-27,Maize,1050.0,kg,Dar es Salaam
+2026-04-27,Ngano,1620.0,kg,Dar es Salaam
+2026-04-27,Rice,2707.1428571428573,kg,Dar es Salaam
+2026-05-04,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-05-04,Irish Potatoes,803.5714285714286,kg,Dar es Salaam
+2026-05-04,Maize,1050.0,kg,Dar es Salaam
+2026-05-04,Ngano,1620.0,kg,Dar es Salaam
+2026-05-04,Rice,2707.1428571428573,kg,Dar es Salaam

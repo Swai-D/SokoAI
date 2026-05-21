@@ -1,0 +1,557 @@
+{
+  "mchele": {
+    "r2": 0.9037,
+    "mae": 49.82,
+    "mape": 1.99,
+    "accuracy_pct": 90.4,
+    "current_price": 3011.0,
+    "pred_4w": 2574.0,
+    "pred_8w": 2516.0,
+    "change_4w": -14.5,
+    "change_8w": -16.4,
+    "alert": "SUBIRI",
+    "alert_msg": "Bei itashuka 14.5% wiki 4 zijazo",
+    "forecast": [
+      {
+        "date": "2024-12-30",
+        "commodity": "mchele",
+        "predicted": 3051.0,
+        "week_ahead": 1
+      },
+      {
+        "date": "2025-01-06",
+        "commodity": "mchele",
+        "predicted": 2546.0,
+        "week_ahead": 2
+      },
+      {
+        "date": "2025-01-13",
+        "commodity": "mchele",
+        "predicted": 2559.0,
+        "week_ahead": 3
+      },
+      {
+        "date": "2025-01-20",
+        "commodity": "mchele",
+        "predicted": 2574.0,
+        "week_ahead": 4
+      },
+      {
+        "date": "2025-01-27",
+        "commodity": "mchele",
+        "predicted": 2589.0,
+        "week_ahead": 5
+      },
+      {
+        "date": "2025-02-03",
+        "commodity": "mchele",
+        "predicted": 2488.0,
+        "week_ahead": 6
+      },
+      {
+        "date": "2025-02-10",
+        "commodity": "mchele",
+        "predicted": 2502.0,
+        "week_ahead": 7
+      },
+      {
+        "date": "2025-02-17",
+        "commodity": "mchele",
+        "predicted": 2516.0,
+        "week_ahead": 8
+      },
+      {
+        "date": "2025-02-24",
+        "commodity": "mchele",
+        "predicted": 2532.0,
+        "week_ahead": 9
+      },
+      {
+        "date": "2025-03-03",
+        "commodity": "mchele",
+        "predicted": 2537.0,
+        "week_ahead": 10
+      },
+      {
+        "date": "2025-03-10",
+        "commodity": "mchele",
+        "predicted": 2960.0,
+        "week_ahead": 11
+      },
+      {
+        "date": "2025-03-17",
+        "commodity": "mchele",
+        "predicted": 2993.0,
+        "week_ahead": 12
+      },
+      {
+        "date": "2025-03-24",
+        "commodity": "mchele",
+        "predicted": 3023.0,
+        "week_ahead": 13
+      },
+      {
+        "date": "2025-03-31",
+        "commodity": "mchele",
+        "predicted": 3049.0,
+        "week_ahead": 14
+      },
+      {
+        "date": "2025-04-07",
+        "commodity": "mchele",
+        "predicted": 2700.0,
+        "week_ahead": 15
+      },
+      {
+        "date": "2025-04-14",
+        "commodity": "mchele",
+        "predicted": 2735.0,
+        "week_ahead": 16
+      }
+    ]
+  },
+  "mafuta": {
+    "r2": 0.8941,
+    "mae": 102.99,
+    "mape": 2.35,
+    "accuracy_pct": 89.4,
+    "current_price": 5368.0,
+    "pred_4w": 4838.0,
+    "pred_8w": 4760.0,
+    "change_4w": -9.9,
+    "change_8w": -11.3,
+    "alert": "SUBIRI",
+    "alert_msg": "Bei itashuka 9.9% wiki 4 zijazo",
+    "forecast": [
+      {
+        "date": "2024-12-30",
+        "commodity": "mafuta",
+        "predicted": 5265.0,
+        "week_ahead": 1
+      },
+      {
+        "date": "2025-01-06",
+        "commodity": "mafuta",
+        "predicted": 4829.0,
+        "week_ahead": 2
+      },
+      {
+        "date": "2025-01-13",
+        "commodity": "mafuta",
+        "predicted": 4831.0,
+        "week_ahead": 3
+      },
+      {
+        "date": "2025-01-20",
+        "commodity": "mafuta",
+        "predicted": 4838.0,
+        "week_ahead": 4
+      },
+      {
+        "date": "2025-01-27",
+        "commodity": "mafuta",
+        "predicted": 4849.0,
+        "week_ahead": 5
+      },
+      {
+        "date": "2025-02-03",
+        "commodity": "mafuta",
+        "predicted": 4728.0,
+        "week_ahead": 6
+      },
+      {
+        "date": "2025-02-10",
+        "commodity": "mafuta",
+        "predicted": 4742.0,
+        "week_ahead": 7
+      },
+      {
+        "date": "2025-02-17",
+        "commodity": "mafuta",
+        "predicted": 4760.0,
+        "week_ahead": 8
+      },
+      {
+        "date": "2025-02-24",
+        "commodity": "mafuta",
+        "predicted": 4780.0,
+        "week_ahead": 9
+      },
+      {
+        "date": "2025-03-03",
+        "commodity": "mafuta",
+        "predicted": 4471.0,
+        "week_ahead": 10
+      },
+      {
+        "date": "2025-03-10",
+        "commodity": "mafuta",
+        "predicted": 5084.0,
+        "week_ahead": 11
+      },
+      {
+        "date": "2025-03-17",
+        "commodity": "mafuta",
+        "predicted": 5155.0,
+        "week_ahead": 12
+      },
+      {
+        "date": "2025-03-24",
+        "commodity": "mafuta",
+        "predicted": 5218.0,
+        "week_ahead": 13
+      },
+      {
+        "date": "2025-03-31",
+        "commodity": "mafuta",
+        "predicted": 5273.0,
+        "week_ahead": 14
+      },
+      {
+        "date": "2025-04-07",
+        "commodity": "mafuta",
+        "predicted": 4727.0,
+        "week_ahead": 15
+      },
+      {
+        "date": "2025-04-14",
+        "commodity": "mafuta",
+        "predicted": 4758.0,
+        "week_ahead": 16
+      }
+    ]
+  },
+  "vitunguu": {
+    "r2": 0.9402,
+    "mae": 35.23,
+    "mape": 2.83,
+    "accuracy_pct": 94.0,
+    "current_price": 1729.0,
+    "pred_4w": 1803.0,
+    "pred_8w": 1931.0,
+    "change_4w": 4.3,
+    "change_8w": 11.7,
+    "alert": "IMARA",
+    "alert_msg": "Bei iko imara \u2014 hakuna mabadiliko makubwa",
+    "forecast": [
+      {
+        "date": "2024-12-30",
+        "commodity": "vitunguu",
+        "predicted": 1742.0,
+        "week_ahead": 1
+      },
+      {
+        "date": "2025-01-06",
+        "commodity": "vitunguu",
+        "predicted": 1734.0,
+        "week_ahead": 2
+      },
+      {
+        "date": "2025-01-13",
+        "commodity": "vitunguu",
+        "predicted": 1768.0,
+        "week_ahead": 3
+      },
+      {
+        "date": "2025-01-20",
+        "commodity": "vitunguu",
+        "predicted": 1803.0,
+        "week_ahead": 4
+      },
+      {
+        "date": "2025-01-27",
+        "commodity": "vitunguu",
+        "predicted": 1835.0,
+        "week_ahead": 5
+      },
+      {
+        "date": "2025-02-03",
+        "commodity": "vitunguu",
+        "predicted": 1875.0,
+        "week_ahead": 6
+      },
+      {
+        "date": "2025-02-10",
+        "commodity": "vitunguu",
+        "predicted": 1904.0,
+        "week_ahead": 7
+      },
+      {
+        "date": "2025-02-17",
+        "commodity": "vitunguu",
+        "predicted": 1931.0,
+        "week_ahead": 8
+      },
+      {
+        "date": "2025-02-24",
+        "commodity": "vitunguu",
+        "predicted": 1956.0,
+        "week_ahead": 9
+      },
+      {
+        "date": "2025-03-03",
+        "commodity": "vitunguu",
+        "predicted": 1873.0,
+        "week_ahead": 10
+      },
+      {
+        "date": "2025-03-10",
+        "commodity": "vitunguu",
+        "predicted": 2149.0,
+        "week_ahead": 11
+      },
+      {
+        "date": "2025-03-17",
+        "commodity": "vitunguu",
+        "predicted": 2161.0,
+        "week_ahead": 12
+      },
+      {
+        "date": "2025-03-24",
+        "commodity": "vitunguu",
+        "predicted": 2173.0,
+        "week_ahead": 13
+      },
+      {
+        "date": "2025-03-31",
+        "commodity": "vitunguu",
+        "predicted": 2184.0,
+        "week_ahead": 14
+      },
+      {
+        "date": "2025-04-07",
+        "commodity": "vitunguu",
+        "predicted": 1694.0,
+        "week_ahead": 15
+      },
+      {
+        "date": "2025-04-14",
+        "commodity": "vitunguu",
+        "predicted": 1694.0,
+        "week_ahead": 16
+      }
+    ]
+  },
+  "sukari": {
+    "r2": 0.8282,
+    "mae": 59.29,
+    "mape": 2.58,
+    "accuracy_pct": 82.8,
+    "current_price": 2547.0,
+    "pred_4w": 2514.0,
+    "pred_8w": 2606.0,
+    "change_4w": -1.3,
+    "change_8w": 2.3,
+    "alert": "IMARA",
+    "alert_msg": "Bei iko imara \u2014 hakuna mabadiliko makubwa",
+    "forecast": [
+      {
+        "date": "2024-12-30",
+        "commodity": "sukari",
+        "predicted": 2685.0,
+        "week_ahead": 1
+      },
+      {
+        "date": "2025-01-06",
+        "commodity": "sukari",
+        "predicted": 2474.0,
+        "week_ahead": 2
+      },
+      {
+        "date": "2025-01-13",
+        "commodity": "sukari",
+        "predicted": 2493.0,
+        "week_ahead": 3
+      },
+      {
+        "date": "2025-01-20",
+        "commodity": "sukari",
+        "predicted": 2514.0,
+        "week_ahead": 4
+      },
+      {
+        "date": "2025-01-27",
+        "commodity": "sukari",
+        "predicted": 2535.0,
+        "week_ahead": 5
+      },
+      {
+        "date": "2025-02-03",
+        "commodity": "sukari",
+        "predicted": 2557.0,
+        "week_ahead": 6
+      },
+      {
+        "date": "2025-02-10",
+        "commodity": "sukari",
+        "predicted": 2580.0,
+        "week_ahead": 7
+      },
+      {
+        "date": "2025-02-17",
+        "commodity": "sukari",
+        "predicted": 2606.0,
+        "week_ahead": 8
+      },
+      {
+        "date": "2025-02-24",
+        "commodity": "sukari",
+        "predicted": 2633.0,
+        "week_ahead": 9
+      },
+      {
+        "date": "2025-03-03",
+        "commodity": "sukari",
+        "predicted": 2630.0,
+        "week_ahead": 10
+      },
+      {
+        "date": "2025-03-10",
+        "commodity": "sukari",
+        "predicted": 2709.0,
+        "week_ahead": 11
+      },
+      {
+        "date": "2025-03-17",
+        "commodity": "sukari",
+        "predicted": 2762.0,
+        "week_ahead": 12
+      },
+      {
+        "date": "2025-03-24",
+        "commodity": "sukari",
+        "predicted": 2822.0,
+        "week_ahead": 13
+      },
+      {
+        "date": "2025-03-31",
+        "commodity": "sukari",
+        "predicted": 2887.0,
+        "week_ahead": 14
+      },
+      {
+        "date": "2025-04-07",
+        "commodity": "sukari",
+        "predicted": 2823.0,
+        "week_ahead": 15
+      },
+      {
+        "date": "2025-04-14",
+        "commodity": "sukari",
+        "predicted": 2889.0,
+        "week_ahead": 16
+      }
+    ]
+  },
+  "unga_ngano": {
+    "r2": 0.7686,
+    "mae": 55.47,
+    "mape": 3.0,
+    "accuracy_pct": 76.9,
+    "current_price": 2196.0,
+    "pred_4w": 1821.0,
+    "pred_8w": 1721.0,
+    "change_4w": -17.1,
+    "change_8w": -21.6,
+    "alert": "SUBIRI",
+    "alert_msg": "Bei itashuka 17.1% wiki 4 zijazo",
+    "forecast": [
+      {
+        "date": "2024-12-30",
+        "commodity": "unga_ngano",
+        "predicted": 2144.0,
+        "week_ahead": 1
+      },
+      {
+        "date": "2025-01-06",
+        "commodity": "unga_ngano",
+        "predicted": 1859.0,
+        "week_ahead": 2
+      },
+      {
+        "date": "2025-01-13",
+        "commodity": "unga_ngano",
+        "predicted": 1840.0,
+        "week_ahead": 3
+      },
+      {
+        "date": "2025-01-20",
+        "commodity": "unga_ngano",
+        "predicted": 1821.0,
+        "week_ahead": 4
+      },
+      {
+        "date": "2025-01-27",
+        "commodity": "unga_ngano",
+        "predicted": 1802.0,
+        "week_ahead": 5
+      },
+      {
+        "date": "2025-02-03",
+        "commodity": "unga_ngano",
+        "predicted": 1751.0,
+        "week_ahead": 6
+      },
+      {
+        "date": "2025-02-10",
+        "commodity": "unga_ngano",
+        "predicted": 1735.0,
+        "week_ahead": 7
+      },
+      {
+        "date": "2025-02-17",
+        "commodity": "unga_ngano",
+        "predicted": 1721.0,
+        "week_ahead": 8
+      },
+      {
+        "date": "2025-02-24",
+        "commodity": "unga_ngano",
+        "predicted": 1711.0,
+        "week_ahead": 9
+      },
+      {
+        "date": "2025-03-03",
+        "commodity": "unga_ngano",
+        "predicted": 1735.0,
+        "week_ahead": 10
+      },
+      {
+        "date": "2025-03-10",
+        "commodity": "unga_ngano",
+        "predicted": 1924.0,
+        "week_ahead": 11
+      },
+      {
+        "date": "2025-03-17",
+        "commodity": "unga_ngano",
+        "predicted": 1937.0,
+        "week_ahead": 12
+      },
+      {
+        "date": "2025-03-24",
+        "commodity": "unga_ngano",
+        "predicted": 1950.0,
+        "week_ahead": 13
+      },
+      {
+        "date": "2025-03-31",
+        "commodity": "unga_ngano",
+        "predicted": 1965.0,
+        "week_ahead": 14
+      },
+      {
+        "date": "2025-04-07",
+        "commodity": "unga_ngano",
+        "predicted": 1776.0,
+        "week_ahead": 15
+      },
+      {
+        "date": "2025-04-14",
+        "commodity": "unga_ngano",
+        "predicted": 1811.0,
+        "week_ahead": 16
+      }
+    ]
+  }
+}
