@@ -71,5 +71,5 @@ To keep SokoAI updated automatically, add this to your server's crontab:
 ```
 
 ---
-**Developed by Terra Consultant Limited**
+**Developed by Odessa Lab**
 "Empowering Tanzanian Markets with Data."

@@ -263,7 +263,7 @@ export default function Dashboard() {
         )}
 
         <footer style={{ textAlign:'center', marginTop:20, fontSize:11, color:'#334155', paddingBottom:20 }}>
-          SokoAI v2.0 · Dar es Salaam Market Trends (Ilala, Tandale, Tandika, Temeke, Mabibo) · Terra Consultant Limited
+          SokoAI v2.0 · Dar es Salaam Market Trends (Ilala, Tandale, Tandika, Temeke, Mabibo) · Odessa Lab
         </footer>
       </main>
     </div>
