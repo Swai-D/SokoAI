@@ -1,555 +1,555 @@
 {
   "Beans": {
-    "r2": 0.9832,
-    "mae": 13.95,
-    "mape": 0.43,
-    "accuracy_pct": 98.3,
+    "r2": 0.9253,
+    "mae": 30.07,
+    "mape": 0.95,
+    "accuracy_pct": 92.5,
     "current_price": 3307.0,
-    "pred_4w": 3447.0,
-    "pred_8w": 3472.0,
-    "change_4w": 4.2,
-    "change_8w": 5.0,
+    "pred_4w": 3342.0,
+    "pred_8w": 3331.0,
+    "change_4w": 1.1,
+    "change_8w": 0.7,
     "alert": "IMARA",
     "alert_msg": "Bei iko imara \u2014 hakuna mabadiliko makubwa",
     "forecast": [
       {
         "date": "2026-05-28",
         "commodity": "Beans",
-        "predicted": 3354.0,
+        "predicted": 3341.0,
         "week_ahead": 1
       },
       {
         "date": "2026-06-04",
         "commodity": "Beans",
-        "predicted": 3445.0,
+        "predicted": 3355.0,
         "week_ahead": 2
       },
       {
         "date": "2026-06-11",
         "commodity": "Beans",
-        "predicted": 3446.0,
+        "predicted": 3350.0,
         "week_ahead": 3
       },
       {
         "date": "2026-06-18",
         "commodity": "Beans",
-        "predicted": 3447.0,
+        "predicted": 3342.0,
         "week_ahead": 4
       },
       {
         "date": "2026-06-25",
         "commodity": "Beans",
-        "predicted": 3446.0,
+        "predicted": 3333.0,
         "week_ahead": 5
       },
       {
         "date": "2026-07-02",
         "commodity": "Beans",
-        "predicted": 3479.0,
+        "predicted": 3363.0,
         "week_ahead": 6
       },
       {
         "date": "2026-07-09",
         "commodity": "Beans",
-        "predicted": 3476.0,
+        "predicted": 3348.0,
         "week_ahead": 7
       },
       {
         "date": "2026-07-16",
         "commodity": "Beans",
-        "predicted": 3472.0,
+        "predicted": 3331.0,
         "week_ahead": 8
       },
       {
         "date": "2026-07-23",
         "commodity": "Beans",
-        "predicted": 3466.0,
+        "predicted": 3312.0,
         "week_ahead": 9
       },
       {
         "date": "2026-07-30",
         "commodity": "Beans",
-        "predicted": 3459.0,
+        "predicted": 3291.0,
         "week_ahead": 10
       },
       {
         "date": "2026-08-06",
         "commodity": "Beans",
-        "predicted": 3262.0,
+        "predicted": 2987.0,
         "week_ahead": 11
       },
       {
         "date": "2026-08-13",
         "commodity": "Beans",
-        "predicted": 3257.0,
+        "predicted": 2966.0,
         "week_ahead": 12
       },
       {
         "date": "2026-08-20",
         "commodity": "Beans",
-        "predicted": 3252.0,
+        "predicted": 2946.0,
         "week_ahead": 13
       },
       {
         "date": "2026-08-27",
         "commodity": "Beans",
-        "predicted": 3248.0,
+        "predicted": 2926.0,
         "week_ahead": 14
       },
       {
         "date": "2026-09-03",
         "commodity": "Beans",
-        "predicted": 3529.0,
+        "predicted": 3380.0,
         "week_ahead": 15
       },
       {
         "date": "2026-09-10",
         "commodity": "Beans",
-        "predicted": 3527.0,
+        "predicted": 3365.0,
         "week_ahead": 16
       }
     ]
   },
   "Maize": {
-    "r2": 0.9461,
-    "mae": 20.51,
-    "mape": 2.18,
-    "accuracy_pct": 94.6,
+    "r2": 0.9036,
+    "mae": 30.0,
+    "mape": 3.34,
+    "accuracy_pct": 90.4,
     "current_price": 1050.0,
-    "pred_4w": 1321.0,
-    "pred_8w": 1410.0,
-    "change_4w": 25.8,
-    "change_8w": 34.3,
+    "pred_4w": 1203.0,
+    "pred_8w": 1243.0,
+    "change_4w": 14.6,
+    "change_8w": 18.4,
     "alert": "NUNUA_SASA",
-    "alert_msg": "Bei itapanda 25.8% wiki 4 zijazo",
+    "alert_msg": "Bei itapanda 14.6% wiki 4 zijazo",
     "forecast": [
       {
         "date": "2026-05-28",
         "commodity": "Maize",
-        "predicted": 1149.0,
+        "predicted": 1124.0,
         "week_ahead": 1
       },
       {
         "date": "2026-06-04",
         "commodity": "Maize",
-        "predicted": 1291.0,
+        "predicted": 1189.0,
         "week_ahead": 2
       },
       {
         "date": "2026-06-11",
         "commodity": "Maize",
-        "predicted": 1307.0,
+        "predicted": 1197.0,
         "week_ahead": 3
       },
       {
         "date": "2026-06-18",
         "commodity": "Maize",
-        "predicted": 1321.0,
+        "predicted": 1203.0,
         "week_ahead": 4
       },
       {
         "date": "2026-06-25",
         "commodity": "Maize",
-        "predicted": 1334.0,
+        "predicted": 1208.0,
         "week_ahead": 5
       },
       {
         "date": "2026-07-02",
         "commodity": "Maize",
-        "predicted": 1384.0,
+        "predicted": 1234.0,
         "week_ahead": 6
       },
       {
         "date": "2026-07-09",
         "commodity": "Maize",
-        "predicted": 1397.0,
+        "predicted": 1239.0,
         "week_ahead": 7
       },
       {
         "date": "2026-07-16",
         "commodity": "Maize",
-        "predicted": 1410.0,
+        "predicted": 1243.0,
         "week_ahead": 8
       },
       {
         "date": "2026-07-23",
         "commodity": "Maize",
-        "predicted": 1421.0,
+        "predicted": 1247.0,
         "week_ahead": 9
       },
       {
         "date": "2026-07-30",
         "commodity": "Maize",
-        "predicted": 1433.0,
+        "predicted": 1251.0,
         "week_ahead": 10
       },
       {
         "date": "2026-08-06",
         "commodity": "Maize",
-        "predicted": 1189.0,
+        "predicted": 918.0,
         "week_ahead": 11
       },
       {
         "date": "2026-08-13",
         "commodity": "Maize",
-        "predicted": 1203.0,
+        "predicted": 922.0,
         "week_ahead": 12
       },
       {
         "date": "2026-08-20",
         "commodity": "Maize",
-        "predicted": 1218.0,
+        "predicted": 928.0,
         "week_ahead": 13
       },
       {
         "date": "2026-08-27",
         "commodity": "Maize",
-        "predicted": 1233.0,
+        "predicted": 933.0,
         "week_ahead": 14
       },
       {
         "date": "2026-09-03",
         "commodity": "Maize",
-        "predicted": 1691.0,
+        "predicted": 1478.0,
         "week_ahead": 15
       },
       {
         "date": "2026-09-10",
         "commodity": "Maize",
-        "predicted": 1717.0,
+        "predicted": 1499.0,
         "week_ahead": 16
       }
     ]
   },
   "Rice": {
-    "r2": 0.9718,
-    "mae": 20.67,
-    "mape": 0.83,
-    "accuracy_pct": 97.2,
+    "r2": 0.9192,
+    "mae": 34.06,
+    "mape": 1.38,
+    "accuracy_pct": 91.9,
     "current_price": 2707.0,
-    "pred_4w": 2821.0,
-    "pred_8w": 2948.0,
-    "change_4w": 4.2,
-    "change_8w": 8.9,
-    "alert": "IMARA",
-    "alert_msg": "Bei iko imara \u2014 hakuna mabadiliko makubwa",
+    "pred_4w": 2882.0,
+    "pred_8w": 3044.0,
+    "change_4w": 6.5,
+    "change_8w": 12.4,
+    "alert": "NUNUA_SASA",
+    "alert_msg": "Bei itapanda 6.5% wiki 4 zijazo",
     "forecast": [
       {
         "date": "2026-05-28",
         "commodity": "Rice",
-        "predicted": 2707.0,
+        "predicted": 2733.0,
         "week_ahead": 1
       },
       {
         "date": "2026-06-04",
         "commodity": "Rice",
-        "predicted": 2815.0,
+        "predicted": 2872.0,
         "week_ahead": 2
       },
       {
         "date": "2026-06-11",
         "commodity": "Rice",
-        "predicted": 2818.0,
+        "predicted": 2878.0,
         "week_ahead": 3
       },
       {
         "date": "2026-06-18",
         "commodity": "Rice",
-        "predicted": 2821.0,
+        "predicted": 2882.0,
         "week_ahead": 4
       },
       {
         "date": "2026-06-25",
         "commodity": "Rice",
-        "predicted": 2826.0,
+        "predicted": 2884.0,
         "week_ahead": 5
       },
       {
         "date": "2026-07-02",
         "commodity": "Rice",
-        "predicted": 2930.0,
+        "predicted": 3041.0,
         "week_ahead": 6
       },
       {
         "date": "2026-07-09",
         "commodity": "Rice",
-        "predicted": 2938.0,
+        "predicted": 3043.0,
         "week_ahead": 7
       },
       {
         "date": "2026-07-16",
         "commodity": "Rice",
-        "predicted": 2948.0,
+        "predicted": 3044.0,
         "week_ahead": 8
       },
       {
         "date": "2026-07-23",
         "commodity": "Rice",
-        "predicted": 2959.0,
+        "predicted": 3044.0,
         "week_ahead": 9
       },
       {
         "date": "2026-07-30",
         "commodity": "Rice",
-        "predicted": 2972.0,
+        "predicted": 3044.0,
         "week_ahead": 10
       },
       {
         "date": "2026-08-06",
         "commodity": "Rice",
-        "predicted": 2840.0,
+        "predicted": 2922.0,
         "week_ahead": 11
       },
       {
         "date": "2026-08-13",
         "commodity": "Rice",
-        "predicted": 2856.0,
+        "predicted": 2923.0,
         "week_ahead": 12
       },
       {
         "date": "2026-08-20",
         "commodity": "Rice",
-        "predicted": 2872.0,
+        "predicted": 2924.0,
         "week_ahead": 13
       },
       {
         "date": "2026-08-27",
         "commodity": "Rice",
-        "predicted": 2889.0,
+        "predicted": 2924.0,
         "week_ahead": 14
       },
       {
         "date": "2026-09-03",
         "commodity": "Rice",
-        "predicted": 3075.0,
+        "predicted": 3281.0,
         "week_ahead": 15
       },
       {
         "date": "2026-09-10",
         "commodity": "Rice",
-        "predicted": 3099.0,
+        "predicted": 3293.0,
         "week_ahead": 16
       }
     ]
   },
   "Irish Potatoes": {
-    "r2": 0.9502,
-    "mae": 5.98,
-    "mape": 0.72,
-    "accuracy_pct": 95.0,
+    "r2": 0.916,
+    "mae": 7.84,
+    "mape": 0.95,
+    "accuracy_pct": 91.6,
     "current_price": 800.0,
-    "pred_4w": 798.0,
-    "pred_8w": 774.0,
-    "change_4w": -0.2,
-    "change_8w": -3.2,
-    "alert": "IMARA",
-    "alert_msg": "Bei iko imara \u2014 hakuna mabadiliko makubwa",
+    "pred_4w": 755.0,
+    "pred_8w": 724.0,
+    "change_4w": -5.6,
+    "change_8w": -9.5,
+    "alert": "SUBIRI",
+    "alert_msg": "Bei itashuka 5.6% wiki 4 zijazo",
     "forecast": [
       {
         "date": "2026-05-28",
         "commodity": "Irish Potatoes",
-        "predicted": 809.0,
+        "predicted": 793.0,
         "week_ahead": 1
       },
       {
         "date": "2026-06-04",
         "commodity": "Irish Potatoes",
-        "predicted": 802.0,
+        "predicted": 765.0,
         "week_ahead": 2
       },
       {
         "date": "2026-06-11",
         "commodity": "Irish Potatoes",
-        "predicted": 800.0,
+        "predicted": 760.0,
         "week_ahead": 3
       },
       {
         "date": "2026-06-18",
         "commodity": "Irish Potatoes",
-        "predicted": 798.0,
+        "predicted": 755.0,
         "week_ahead": 4
       },
       {
         "date": "2026-06-25",
         "commodity": "Irish Potatoes",
-        "predicted": 796.0,
+        "predicted": 750.0,
         "week_ahead": 5
       },
       {
         "date": "2026-07-02",
         "commodity": "Irish Potatoes",
-        "predicted": 779.0,
+        "predicted": 731.0,
         "week_ahead": 6
       },
       {
         "date": "2026-07-09",
         "commodity": "Irish Potatoes",
-        "predicted": 777.0,
+        "predicted": 727.0,
         "week_ahead": 7
       },
       {
         "date": "2026-07-16",
         "commodity": "Irish Potatoes",
-        "predicted": 774.0,
+        "predicted": 724.0,
         "week_ahead": 8
       },
       {
         "date": "2026-07-23",
         "commodity": "Irish Potatoes",
-        "predicted": 770.0,
+        "predicted": 721.0,
         "week_ahead": 9
       },
       {
         "date": "2026-07-30",
         "commodity": "Irish Potatoes",
-        "predicted": 767.0,
+        "predicted": 718.0,
         "week_ahead": 10
       },
       {
         "date": "2026-08-06",
         "commodity": "Irish Potatoes",
-        "predicted": 716.0,
+        "predicted": 670.0,
         "week_ahead": 11
       },
       {
         "date": "2026-08-13",
         "commodity": "Irish Potatoes",
-        "predicted": 710.0,
+        "predicted": 667.0,
         "week_ahead": 12
       },
       {
         "date": "2026-08-20",
         "commodity": "Irish Potatoes",
-        "predicted": 705.0,
+        "predicted": 664.0,
         "week_ahead": 13
       },
       {
         "date": "2026-08-27",
         "commodity": "Irish Potatoes",
-        "predicted": 700.0,
+        "predicted": 662.0,
         "week_ahead": 14
       },
       {
         "date": "2026-09-03",
         "commodity": "Irish Potatoes",
-        "predicted": 713.0,
+        "predicted": 625.0,
         "week_ahead": 15
       },
       {
         "date": "2026-09-10",
         "commodity": "Irish Potatoes",
-        "predicted": 710.0,
+        "predicted": 625.0,
         "week_ahead": 16
       }
     ]
   },
   "Ngano": {
-    "r2": 0.9009,
-    "mae": 6.46,
-    "mape": 0.39,
-    "accuracy_pct": 90.1,
+    "r2": 0.8714,
+    "mae": 7.77,
+    "mape": 0.48,
+    "accuracy_pct": 87.1,
     "current_price": 1620.0,
-    "pred_4w": 1602.0,
-    "pred_8w": 1583.0,
-    "change_4w": -1.1,
-    "change_8w": -2.3,
+    "pred_4w": 1572.0,
+    "pred_8w": 1544.0,
+    "change_4w": -3.0,
+    "change_8w": -4.7,
     "alert": "IMARA",
     "alert_msg": "Bei iko imara \u2014 hakuna mabadiliko makubwa",
     "forecast": [
       {
         "date": "2026-05-28",
         "commodity": "Ngano",
-        "predicted": 1610.0,
+        "predicted": 1597.0,
         "week_ahead": 1
       },
       {
         "date": "2026-06-04",
         "commodity": "Ngano",
-        "predicted": 1611.0,
+        "predicted": 1590.0,
         "week_ahead": 2
       },
       {
         "date": "2026-06-11",
         "commodity": "Ngano",
-        "predicted": 1606.0,
+        "predicted": 1581.0,
         "week_ahead": 3
       },
       {
         "date": "2026-06-18",
         "commodity": "Ngano",
-        "predicted": 1602.0,
+        "predicted": 1572.0,
         "week_ahead": 4
       },
       {
         "date": "2026-06-25",
         "commodity": "Ngano",
-        "predicted": 1599.0,
+        "predicted": 1564.0,
         "week_ahead": 5
       },
       {
         "date": "2026-07-02",
         "commodity": "Ngano",
-        "predicted": 1586.0,
+        "predicted": 1554.0,
         "week_ahead": 6
       },
       {
         "date": "2026-07-09",
         "commodity": "Ngano",
-        "predicted": 1584.0,
+        "predicted": 1548.0,
         "week_ahead": 7
       },
       {
         "date": "2026-07-16",
         "commodity": "Ngano",
-        "predicted": 1583.0,
+        "predicted": 1544.0,
         "week_ahead": 8
       },
       {
         "date": "2026-07-23",
         "commodity": "Ngano",
-        "predicted": 1582.0,
+        "predicted": 1541.0,
         "week_ahead": 9
       },
       {
         "date": "2026-07-30",
         "commodity": "Ngano",
-        "predicted": 1583.0,
+        "predicted": 1540.0,
         "week_ahead": 10
       },
       {
         "date": "2026-08-06",
         "commodity": "Ngano",
-        "predicted": 1580.0,
+        "predicted": 1545.0,
         "week_ahead": 11
       },
       {
         "date": "2026-08-13",
         "commodity": "Ngano",
-        "predicted": 1583.0,
+        "predicted": 1547.0,
         "week_ahead": 12
       },
       {
         "date": "2026-08-20",
         "commodity": "Ngano",
-        "predicted": 1585.0,
+        "predicted": 1550.0,
         "week_ahead": 13
       },
       {
         "date": "2026-08-27",
         "commodity": "Ngano",
-        "predicted": 1588.0,
+        "predicted": 1555.0,
         "week_ahead": 14
       },
       {
         "date": "2026-09-03",
         "commodity": "Ngano",
-        "predicted": 1575.0,
+        "predicted": 1499.0,
         "week_ahead": 15
       },
       {
         "date": "2026-09-10",
         "commodity": "Ngano",
-        "predicted": 1578.0,
+        "predicted": 1503.0,
         "week_ahead": 16
       }
     ]

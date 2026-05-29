@@ -66,12 +66,8 @@ def parse_price_pdf(pdf_path, date_obj):
         print(f"Error parsing {pdf_path}: {e}")
     return results
 
-def parse_date_from_content(pdf):
-    # Try to find date in the first page text
-    first_page = pdf.pages[0].extract_text()
-    if not first_page:
-        return None
-        
+def extract_date_from_str(text):
+    if not text: return None
     sw_months = {
         "JANUARI": "January", "FEBRUARI": "February", "MACHI": "March", 
         "APRILI": "April", "MEI": "May", "JUNI": "June", 
@@ -80,15 +76,16 @@ def parse_date_from_content(pdf):
         "OCTOBA": "October", "SEPETEMBA": "September", "FEBRUALI": "February"
     }
     
-    clean_text = first_page.upper().replace('\n', ' ')
+    clean_text = text.upper().replace('\n', ' ').replace('_', ' ')
     for sw, en in sw_months.items():
         clean_text = clean_text.replace(sw, en)
         
-    # Matches "06 MEI, 2026", "06 MAY 2026", "6 JUNE 2024", etc.
+    # Matches "06 MAY 2026", "06MAY2026", "6 JUNE 2024", "10 APRIL 2026", etc.
     patterns = [
         r'(\d{1,2})\s+([A-Z]+),?\s+(\d{4})',
         r'(\d{1,2})([A-Z]+),?\s+(\d{4})',
         r'(\d{1,2})([A-Z]+)(\d{4})',
+        r'(\d{1,2})\s+([A-Z]+)\s+(\d{4})'
     ]
     
     for pattern in patterns:
@@ -111,19 +108,25 @@ def process_all_pdfs(raw_dir, output_csv):
         date_obj = None
         
         # 1. Try date from filename
+        # Handles "20230529_..." OR "unknown_Bei_ya_bidhaa_th_01_April_2026.pdf"
         date_str = filename.split('_')[0]
-        try:
-            date_obj = datetime.strptime(date_str, "%Y%m%d")
-        except:
-            pass
+        if date_str.isdigit() and len(date_str) == 8:
+            try:
+                date_obj = datetime.strptime(date_str, "%Y%m%d")
+            except:
+                pass
+        
+        if not date_obj:
+            date_obj = extract_date_from_str(filename)
             
-        # 2. Try date from content if filename fails
+        # 2. Try date from content
         if not date_obj:
             try:
                 with pdfplumber.open(filepath) as pdf:
-                    date_obj = parse_date_from_content(pdf)
+                    first_page = pdf.pages[0].extract_text()
+                    date_obj = extract_date_from_str(first_page)
             except Exception as e:
-                print(f"Error reading {filename} for date: {e}")
+                print(f"Error reading {filename} for content date: {e}")
                 
         if not date_obj:
             print(f"Skipping {filename}: Could not determine date.")
