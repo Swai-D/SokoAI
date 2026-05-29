@@ -8,7 +8,7 @@ import { useRouter } from 'next/navigation';
 
 const AuthContext = createContext(null);
 
-const API = process.env.NEXT_PUBLIC_API_URL ?? '';
+const API = process.env.NEXT_PUBLIC_API_URL ?? (process.env.NODE_ENV === 'development' ? 'http://127.0.0.1:8000' : '');
 
 // ── Token helpers ─────────────────────────────────────────────────
 function saveTokens(access, refresh) {

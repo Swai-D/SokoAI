@@ -34,6 +34,63 @@ date,commodity,price,unit,region
 2023-11-13,Irish Potatoes,1000.0,kg,Dar es Salaam
 2023-11-13,Maize,1000.0,kg,Dar es Salaam
 2023-11-13,Rice,2400.0,kg,Dar es Salaam
+2024-01-03,Beans,3150.0,kg,Dar es Salaam
+2024-01-03,Irish Potatoes,820.0,kg,Dar es Salaam
+2024-01-03,Maize,812.5,kg,Dar es Salaam
+2024-01-03,Rice,2625.0,kg,Dar es Salaam
+2024-01-10,Beans,3150.0,kg,Dar es Salaam
+2024-01-10,Irish Potatoes,820.0,kg,Dar es Salaam
+2024-01-10,Maize,812.5,kg,Dar es Salaam
+2024-01-10,Rice,2625.0,kg,Dar es Salaam
+2024-01-15,Beans,3150.0,kg,Dar es Salaam
+2024-01-15,Irish Potatoes,820.0,kg,Dar es Salaam
+2024-01-15,Maize,812.5,kg,Dar es Salaam
+2024-01-15,Rice,2625.0,kg,Dar es Salaam
+2024-04-05,Beans,2780.0,kg,Dar es Salaam
+2024-04-05,Irish Potatoes,758.0,kg,Dar es Salaam
+2024-04-05,Maize,860.0,kg,Dar es Salaam
+2024-04-05,Ngano,1450.0,kg,Dar es Salaam
+2024-04-05,Rice,2540.0,kg,Dar es Salaam
+2024-04-08,Beans,2720.0,kg,Dar es Salaam
+2024-04-08,Irish Potatoes,748.0,kg,Dar es Salaam
+2024-04-08,Maize,835.0,kg,Dar es Salaam
+2024-04-08,Ngano,1483.3333333333333,kg,Dar es Salaam
+2024-04-08,Rice,2550.0,kg,Dar es Salaam
+2024-04-12,Beans,2720.0,kg,Dar es Salaam
+2024-04-12,Irish Potatoes,748.0,kg,Dar es Salaam
+2024-04-12,Maize,835.0,kg,Dar es Salaam
+2024-04-12,Ngano,1483.3333333333333,kg,Dar es Salaam
+2024-04-12,Rice,2560.0,kg,Dar es Salaam
+2024-04-15,Beans,2930.0,kg,Dar es Salaam
+2024-04-15,Irish Potatoes,803.0,kg,Dar es Salaam
+2024-04-15,Maize,810.0,kg,Dar es Salaam
+2024-04-15,Ngano,1583.3333333333333,kg,Dar es Salaam
+2024-04-15,Rice,2530.0,kg,Dar es Salaam
+2024-04-17,Beans,2930.0,kg,Dar es Salaam
+2024-04-17,Irish Potatoes,803.0,kg,Dar es Salaam
+2024-04-17,Maize,810.0,kg,Dar es Salaam
+2024-04-17,Ngano,1583.3333333333333,kg,Dar es Salaam
+2024-04-17,Rice,2560.0,kg,Dar es Salaam
+2024-04-19,Beans,2930.0,kg,Dar es Salaam
+2024-04-19,Irish Potatoes,803.0,kg,Dar es Salaam
+2024-04-19,Maize,810.0,kg,Dar es Salaam
+2024-04-19,Ngano,1583.3333333333333,kg,Dar es Salaam
+2024-04-19,Rice,2560.0,kg,Dar es Salaam
+2024-04-22,Beans,2910.0,kg,Dar es Salaam
+2024-04-22,Irish Potatoes,835.0,kg,Dar es Salaam
+2024-04-22,Maize,860.0,kg,Dar es Salaam
+2024-04-22,Ngano,1550.0,kg,Dar es Salaam
+2024-04-22,Rice,2530.0,kg,Dar es Salaam
+2024-04-24,Beans,2720.0,kg,Dar es Salaam
+2024-04-24,Irish Potatoes,835.0,kg,Dar es Salaam
+2024-04-24,Maize,935.0,kg,Dar es Salaam
+2024-04-24,Ngano,1683.3333333333333,kg,Dar es Salaam
+2024-04-24,Rice,2470.0,kg,Dar es Salaam
+2024-04-29,Beans,2850.0,kg,Dar es Salaam
+2024-04-29,Irish Potatoes,835.0,kg,Dar es Salaam
+2024-04-29,Maize,805.0,kg,Dar es Salaam
+2024-04-29,Ngano,1616.6666666666667,kg,Dar es Salaam
+2024-04-29,Rice,2440.0,kg,Dar es Salaam
 2024-08-05,Beans,3008.3333333333335,kg,Dar es Salaam
 2024-08-05,Irish Potatoes,894.1666666666666,kg,Dar es Salaam
 2024-08-05,Maize,696.0,kg,Dar es Salaam
@@ -119,6 +176,36 @@ date,commodity,price,unit,region
 2024-12-11,Maize,752.0,kg,Dar es Salaam
 2024-12-11,Ngano,1562.5,kg,Dar es Salaam
 2024-12-11,Rice,2275.0,kg,Dar es Salaam
+2025-01-08,Beans,3158.3333333333335,kg,Dar es Salaam
+2025-01-08,Irish Potatoes,866.6666666666666,kg,Dar es Salaam
+2025-01-08,Maize,702.0,kg,Dar es Salaam
+2025-01-08,Ngano,1562.5,kg,Dar es Salaam
+2025-01-08,Rice,2300.0,kg,Dar es Salaam
+2025-01-10,Beans,3158.3333333333335,kg,Dar es Salaam
+2025-01-10,Irish Potatoes,866.6666666666666,kg,Dar es Salaam
+2025-01-10,Maize,702.0,kg,Dar es Salaam
+2025-01-10,Ngano,1562.5,kg,Dar es Salaam
+2025-01-10,Rice,2300.0,kg,Dar es Salaam
+2025-01-13,Beans,3158.3333333333335,kg,Dar es Salaam
+2025-01-13,Irish Potatoes,866.6666666666666,kg,Dar es Salaam
+2025-01-13,Maize,702.0,kg,Dar es Salaam
+2025-01-13,Ngano,1562.5,kg,Dar es Salaam
+2025-01-13,Rice,2300.0,kg,Dar es Salaam
+2025-01-15,Beans,3158.3333333333335,kg,Dar es Salaam
+2025-01-15,Irish Potatoes,866.6666666666666,kg,Dar es Salaam
+2025-01-15,Maize,702.0,kg,Dar es Salaam
+2025-01-15,Ngano,1562.5,kg,Dar es Salaam
+2025-01-15,Rice,2300.0,kg,Dar es Salaam
+2025-01-17,Beans,3158.3333333333335,kg,Dar es Salaam
+2025-01-17,Irish Potatoes,866.6666666666666,kg,Dar es Salaam
+2025-01-17,Maize,702.0,kg,Dar es Salaam
+2025-01-17,Ngano,1562.5,kg,Dar es Salaam
+2025-01-17,Rice,2300.0,kg,Dar es Salaam
+2025-01-20,Beans,3183.3333333333335,kg,Dar es Salaam
+2025-01-20,Irish Potatoes,865.0,kg,Dar es Salaam
+2025-01-20,Maize,732.0,kg,Dar es Salaam
+2025-01-20,Ngano,1562.5,kg,Dar es Salaam
+2025-01-20,Rice,2320.8333333333335,kg,Dar es Salaam
 2025-02-03,Beans,3216.6666666666665,kg,Dar es Salaam
 2025-02-03,Irish Potatoes,862.5,kg,Dar es Salaam
 2025-02-03,Maize,752.0,kg,Dar es Salaam
@@ -159,6 +246,16 @@ date,commodity,price,unit,region
 2025-02-24,Maize,842.0,kg,Dar es Salaam
 2025-02-24,Ngano,1612.5,kg,Dar es Salaam
 2025-02-24,Rice,2508.3333333333335,kg,Dar es Salaam
+2025-04-09,Beans,3191.6666666666665,kg,Dar es Salaam
+2025-04-09,Irish Potatoes,830.8333333333334,kg,Dar es Salaam
+2025-04-09,Maize,870.0,kg,Dar es Salaam
+2025-04-09,Ngano,1687.5,kg,Dar es Salaam
+2025-04-09,Rice,2550.0,kg,Dar es Salaam
+2025-04-11,Beans,3191.6666666666665,kg,Dar es Salaam
+2025-04-11,Irish Potatoes,830.8333333333334,kg,Dar es Salaam
+2025-04-11,Maize,870.0,kg,Dar es Salaam
+2025-04-11,Ngano,1687.5,kg,Dar es Salaam
+2025-04-11,Rice,2550.0,kg,Dar es Salaam
 2025-04-14,Beans,3241.6666666666665,kg,Dar es Salaam
 2025-04-14,Irish Potatoes,830.8333333333334,kg,Dar es Salaam
 2025-04-14,Maize,860.0,kg,Dar es Salaam
@@ -594,11 +691,21 @@ date,commodity,price,unit,region
 2026-03-30,Maize,1050.0,kg,Dar es Salaam
 2026-03-30,Ngano,1620.0,kg,Dar es Salaam
 2026-03-30,Rice,2707.1428571428573,kg,Dar es Salaam
+2026-04-01,Beans,3285.714285714286,kg,Dar es Salaam
+2026-04-01,Irish Potatoes,801.4285714285714,kg,Dar es Salaam
+2026-04-01,Maize,1050.0,kg,Dar es Salaam
+2026-04-01,Ngano,1620.0,kg,Dar es Salaam
+2026-04-01,Rice,2707.1428571428573,kg,Dar es Salaam
 2026-04-08,Beans,3275.0,kg,Dar es Salaam
 2026-04-08,Irish Potatoes,830.8333333333334,kg,Dar es Salaam
 2026-04-08,Maize,1070.0,kg,Dar es Salaam
 2026-04-08,Ngano,1620.0,kg,Dar es Salaam
 2026-04-08,Rice,2716.6666666666665,kg,Dar es Salaam
+2026-04-10,Beans,3275.0,kg,Dar es Salaam
+2026-04-10,Irish Potatoes,830.8333333333334,kg,Dar es Salaam
+2026-04-10,Maize,1070.0,kg,Dar es Salaam
+2026-04-10,Ngano,1620.0,kg,Dar es Salaam
+2026-04-10,Rice,2716.6666666666665,kg,Dar es Salaam
 2026-04-13,Beans,3275.0,kg,Dar es Salaam
 2026-04-13,Irish Potatoes,830.8333333333334,kg,Dar es Salaam
 2026-04-13,Maize,1070.0,kg,Dar es Salaam
@@ -634,8 +741,23 @@ date,commodity,price,unit,region
 2026-04-27,Maize,1050.0,kg,Dar es Salaam
 2026-04-27,Ngano,1620.0,kg,Dar es Salaam
 2026-04-27,Rice,2707.1428571428573,kg,Dar es Salaam
+2026-04-29,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-04-29,Irish Potatoes,803.5714285714286,kg,Dar es Salaam
+2026-04-29,Maize,1050.0,kg,Dar es Salaam
+2026-04-29,Ngano,1620.0,kg,Dar es Salaam
+2026-04-29,Rice,2707.1428571428573,kg,Dar es Salaam
 2026-05-04,Beans,3307.1428571428573,kg,Dar es Salaam
 2026-05-04,Irish Potatoes,803.5714285714286,kg,Dar es Salaam
 2026-05-04,Maize,1050.0,kg,Dar es Salaam
 2026-05-04,Ngano,1620.0,kg,Dar es Salaam
 2026-05-04,Rice,2707.1428571428573,kg,Dar es Salaam
+2026-05-06,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-05-06,Irish Potatoes,800.0,kg,Dar es Salaam
+2026-05-06,Maize,1050.0,kg,Dar es Salaam
+2026-05-06,Ngano,1620.0,kg,Dar es Salaam
+2026-05-06,Rice,2707.1428571428573,kg,Dar es Salaam
+2026-05-21,Beans,3307.1428571428573,kg,Dar es Salaam
+2026-05-21,Irish Potatoes,800.0,kg,Dar es Salaam
+2026-05-21,Maize,1050.0,kg,Dar es Salaam
+2026-05-21,Ngano,1620.0,kg,Dar es Salaam
+2026-05-21,Rice,2707.1428571428573,kg,Dar es Salaam
