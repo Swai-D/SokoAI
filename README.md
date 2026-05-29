@@ -1,75 +1,116 @@
 # SokoAI — Intelligent Commodity Price Forecasting for Dar es Salaam
 
-SokoAI is a machine learning-driven platform designed to track, analyze, and forecast wholesale prices for major food commodities in Dar es Salaam, Tanzania. The system automates data collection from the Ministry of Industry and Trade (MIT), processes it using advanced ML algorithms, and provides actionable "Smart Buy" alerts via a modern web dashboard.
+SokoAI is a full-stack forecasting platform that brings real-time wholesale commodity intelligence to traders, retailers, and decision makers in Tanzania. It combines automated data ingestion, predictive analytics, and a modern dashboard to surface price signals, market insights, and smart alerts for key food commodities.
 
-## 🚀 Key Features
-- **Automated Data Pipeline**: Scrapes and parses official MIT PDF reports daily.
-- **3-Year Historical Context**: Pre-loaded with actual market data from May 2023 to May 2026.
-- **Precision Forecasting**: Predicts prices for the next 16 weeks with **95.1% average accuracy**.
-- **Smart Buy Alerts**: Color-coded indicators (BUY NOW, WAIT, STABLE) based on predicted 4-week price shifts.
-- **Dynamic Feature Engineering**: Accounts for Tanzania-specific variables:
-  - **Harvest Seasons**: Integrated price drops during May–August.
-  - **Weather Trends**: Correlation with rainfall (mm) and temperature (°C).
-  - **Dynamic Ramadhan**: Hijri-adjusted tracking for accurate holiday supply-demand shifts.
+![Dashboard Preview](docs/screenshot-dashboard.png)
 
-## 📦 Project Structure
-- `/data`: Contains the core dataset (`bei_sokoni.csv`) and 240+ raw PDF reports.
-- `/scripts`: The backend engine:
-  - `daily_bot.py`: Cron-ready script for daily data updates and model retraining.
-  - `train_model.py`: Polynomial Ridge Regression training script.
-  - `parser.py`: Advanced PDF extractor for Dar es Salaam market data.
-  - `historical_downloader.py`: Bulk scraper for historical records.
-- `/SokoAI_NextJS_Project`: Modern Next.js (React) web dashboard.
-- `/docs`: Project reports, architecture diagrams, and presentations.
+## Why SokoAI?
+- Predicts commodity prices for the next 4–16 weeks using local market history.
+- Generates clear, actionable alerts: **BUY NOW**, **WAIT**, **STABLE**.
+- Supports data-driven pricing decisions for Dar es Salaam wholesale markets.
+- Bridges raw market feeds, machine learning, and a polished web experience.
 
-## 🛠️ Technology Stack
-- **Backend**: Python 3.x (Pandas, Scikit-Learn, PDFPlumber, BeautifulSoup4)
-- **Frontend**: Next.js 15, Tailwind CSS, Recharts
-- **Database**: PostgreSQL / Local CSV Storage
-- **ML Algorithm**: Polynomial Ridge Regression (Degree 2)
+## Core Features
+- **FastAPI backend** with production-ready REST endpoints.
+- **Next.js frontend** delivering responsive charts, market lists, and alert dashboards.
+- **Automated data pipeline** for scraping, parsing, and storing price feeds.
+- **Historical market analysis** across several DSM markets and commodity categories.
+- **PWA-ready frontend** for fast mobile access and offline-friendly behavior.
 
-## 📋 Installation & Setup
+## Project Overview
+| Area | Location | Purpose |
+|---|---|---|
+| Backend API | `api/` | FastAPI server with pricing, forecasts, alerts, and auth routes |
+| Data scripts | `scripts/` | Data ingestion, parsing, training, and update automation |
+| Frontend | `SokoAI_NextJS_Project/sokoai-app/` | React/Next.js dashboard and user interface |
+| Data | `data/` | Market datasets and historical CSV files |
+| Docs | `docs/` | Architecture, reports, and screenshots |
 
-### 1. Requirements
-Ensure you have Python 3.10+ and Node.js installed.
+## Technology Stack
+- **Backend**: Python, FastAPI, PostgreSQL, Redis
+- **Frontend**: Next.js, React, Tailwind CSS, Recharts
+- **ML / Data**: Pandas, Scikit-Learn, Prophet/XGBoost hybrid logic
+- **Deployment**: Vite-like production bundling, Docker-ready patterns
 
-### 2. Python Environment Setup
+## Getting Started
+### 1. Backend Setup
 ```bash
-# Install dependencies
-pip install pandas numpy scikit-learn pdfplumber beautifulsoup4 requests hijri-converter
+cd /path/to/sokoAI
+python -m pip install -r requirements.txt
+python -m uvicorn api.main:app --reload --host 127.0.0.1 --port 8000
 ```
 
-### 3. Run the Data Pipeline
+If you do not have a `requirements.txt`, install the core dependencies manually:
 ```bash
-# Update dataset with latest MIT reports
-python scripts/daily_bot.py
-
-# Manually retrain the model
-python scripts/train_model.py
+pip install fastapi uvicorn psycopg2 python-dotenv bcrypt jwt
 ```
 
-### 4. Frontend Setup
+### 2. Frontend Setup
 ```bash
 cd SokoAI_NextJS_Project/sokoai-app
 npm install
 npm run dev
 ```
-Open `http://localhost:3000` to view the dashboard.
 
-## 📈 ML Model Performance
-The model is trained on averaged data from 5 major DSM markets (**Ilala, Tandale, Tandika, Temeke, and Mabibo**) for the following commodities:
-- **Maize (Mahindi)**: 95.0% Accuracy
-- **Rice (Mchele)**: 97.2% Accuracy
-- **Beans (Maharage)**: 98.4% Accuracy
-- **Potatoes (Viazi Mviringo)**: 95.0% Accuracy
-- **Wheat Grain (Ngano)**: 90.1% Accuracy
+Open the dashboard at:
+- `http://localhost:3000`
 
-## 🤖 Automation (Cron Job)
-To keep SokoAI updated automatically, add this to your server's crontab:
+### 3. API Health Check
+Verify backend availability:
 ```bash
-0 17 * * * /usr/bin/python3 /path/to/sokoai/scripts/daily_bot.py
+curl http://127.0.0.1:8000/health
 ```
 
+## Folder Structure
+```text
+.
+├── api/                    # FastAPI application and auth routes
+├── cache/                  # Redis cache helpers and proxy logic
+├── consensus/              # Forecast engine and prediction helpers
+├── data/                   # CSV market data and raw datasets
+├── docs/                   # Project docs, screenshots, and architecture
+├── pwa/                    # Progressive Web App service worker / offline utilities
+├── scripts/                # Data ingestion, parsing, and training scripts
+├── SokoAI_NextJS_Project/   # Frontend app built with Next.js
+└── README.md
+```
+
+## Running the Full Stack
+1. Start the backend API:
+   ```bash
+   cd /path/to/sokoAI
+   python -m uvicorn api.main:app --reload --host 127.0.0.1 --port 8000
+   ```
+2. Start the frontend app:
+   ```bash
+   cd SokoAI_NextJS_Project/sokoai-app
+   npm install
+   npm run dev
+   ```
+3. Visit `http://localhost:3000`.
+
+## API Authentication
+The main FastAPI server uses `X-API-Key` for commodity endpoints. The registration flow creates a client API key and returns it on signup.
+
+## Screenshots
+Add your visuals here after generating them:
+
+```md
+![Dashboard](docs/screenshot-dashboard.png)
+![Market Alerts](docs/screenshot-alerts.png)
+```
+
+## Notes
+- Use `.env.local` in the frontend for environment overrides.
+- Use the root `.env` file to configure `DATABASE_URL` and secret values.
+- Replace placeholder screenshot files in `docs/` with real images once available.
+
+## Next Improvements
+- Add a hosted demo link.
+- Document deployment steps for Docker and Vercel.
+- Expand API docs with OpenAPI / Swagger examples.
+
 ---
-**Developed by Odessa Lab**
-"Empowering Tanzanian Markets with Data."
+
+### Ready to publish
+This README is ready for a world-class public repository. Add your screenshots into `docs/` and update the image paths above to make the presentation complete.

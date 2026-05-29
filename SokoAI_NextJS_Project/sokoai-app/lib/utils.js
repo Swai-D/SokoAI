@@ -1,3 +1,5 @@
+export const API_BASE = process.env.NEXT_PUBLIC_API_URL ?? (process.env.NODE_ENV === 'development' ? 'http://127.0.0.1:8000' : '');
+
 // ── Alert config (maps backend Kiswahili → display) ────────────
 export const ALERT_MAP = {
   NUNUA_SASA: { key: 'NUNUA_SASA', color: '#ef4444', bg: '#1a0505', border: '#7f1d1d', label: 'NUNUA SASA', en: 'BUY NOW',  icon: '🔴' },
@@ -63,7 +65,8 @@ export async function apiFetch(path, opts = {}) {
   const apiKey = typeof window !== 'undefined'
     ? localStorage.getItem('sokoai_api_key') : null;
 
-  const res = await fetch(path, {
+  const url = path.startsWith('http') ? path : `${API_BASE}${path}`;
+  const res = await fetch(url, {
     ...opts,
     headers: {
       'Content-Type': 'application/json',

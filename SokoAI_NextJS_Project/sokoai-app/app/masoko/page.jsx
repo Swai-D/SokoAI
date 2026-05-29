@@ -1,6 +1,6 @@
 'use client';
 import { useState, useEffect } from 'react';
-import { getAlert, getCommodityMeta, fmtTZS, fmtDate, CATEGORY_COLOR } from '@/lib/utils';
+import { apiFetch, getAlert, getCommodityMeta, fmtTZS, fmtDate, CATEGORY_COLOR } from '@/lib/utils';
 
 const MASOKO = ['Kariakoo','Tandale','Ilala','Tandika','Temeke','Mabibo','Ubungo'];
 
@@ -48,10 +48,9 @@ export default function MasokoPage() {
 
   useEffect(() => {
     setLoading(true); setError(null);
-    fetch(`/api/v1/prices?soko=${encodeURIComponent(soko)}&limit=100`, {
+    apiFetch(`/api/v1/prices?soko=${encodeURIComponent(soko)}&limit=100`, {
       headers: { 'X-API-Key': localStorage.getItem('sokoai_api_key') ?? 'dev' },
     })
-      .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
       .then(d => {
         setData(d.data ?? []);
         setLastUpdate(d.tarehe);

@@ -1,7 +1,7 @@
 'use client';
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { getCommodityMeta, getAlert, fmtTZS, fmtShort, CATEGORY_COLOR } from '@/lib/utils';
+import { apiFetch, getCommodityMeta, getAlert, fmtTZS, fmtShort, CATEGORY_COLOR } from '@/lib/utils';
 
 export default function BidhaaListPage() {
   const [bidhaa, setBidhaa] = useState([]);
@@ -10,12 +10,9 @@ export default function BidhaaListPage() {
   const [cat, setCat]        = useState('ZOTE');
 
   useEffect(() => {
-    fetch('/api/v1/commodities', {
-      headers: { 'X-API-Key': localStorage.getItem('sokoai_api_key') ?? 'dev' },
-    })
-      .then(r => r.json())
+    apiFetch('/api/v1/commodities')
       .then(d => { setBidhaa(d.bidhaa ?? []); setLoading(false); })
-      .catch(() => setLoading(false));
+      .catch(() => { setBidhaa([]); setLoading(false); });
   }, []);
 
   const cats = ['ZOTE', ...new Set(bidhaa.map(b => b.kategoria).filter(Boolean))];
